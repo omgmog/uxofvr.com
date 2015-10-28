@@ -7,6 +7,7 @@ Some resources about the UI/UX considerations for VR
 - [VR Interface Design Pre-Visualisation Methods](https://www.youtube.com/watch?v=id86HeV-Vb8) - Mike Alger
 - [VR Interface Design Manifesto](https://www.youtube.com/watch?v=n3b8hZ5NV2E) - Mike Alger
 - [UI/UX design for WebBR](https://www.youtube.com/watch?v=ZOaOYTOpwyM) - Josh Carpenter
+- [Designing For Virtual Reality](https://www.youtube.com/watch?v=hM1AnOqaE-w) - Laura Cortes & Cyriele Piancastelli ([Slides](http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9))
 
 
 ## Articles/Slides
@@ -22,5 +23,4 @@ Some resources about the UI/UX considerations for VR
 - [6 Principals of Leap Motion Interaction Design](http://blog.leapmotion.com/6-principles-of-interaction-design/) - Alex Colgan
 - [The Oculus Rift and User Experience](http://www.uxmatters.com/mt/archives/2013/10/the-oculus-rift-and-user-experience.php) - Peter Hornsby
 - [UX & Virtual Reality - Designing for interfaces without Screens](http://www.uxness.in/2015/08/ux-virtual-reality.html) - Prashanth Shanmugam
-- [UX in VR](http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9) - Laura Cortes
 - [VRID: A Design Model and Methodology for Developing Virtual Reality Interfaces](http://www.cs.tufts.edu/~jacob/papers/vrst01.tanriverdi.pdf) - Vilvan tanriverdi & Robert J.K. Jacob
