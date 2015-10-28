@@ -23,3 +23,4 @@ Some resources about the UI/UX considerations for VR
 - [The Oculus Rift and User Experience](http://www.uxmatters.com/mt/archives/2013/10/the-oculus-rift-and-user-experience.php) - Peter Hornsby
 - [UX & Virtual Reality - Designing for interfaces without Screens](http://www.uxness.in/2015/08/ux-virtual-reality.html) - Prashanth Shanmugam
 - [UX in VR](http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9) - Laura Cortes
+- [VRID: A Design Model and Methodology for Developing Virtual Reality Interfaces](http://www.cs.tufts.edu/~jacob/papers/vrst01.tanriverdi.pdf) - Vilvan tanriverdi & Robert J.K. Jacob
