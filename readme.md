@@ -9,7 +9,7 @@ Some resources about the UI/UX considerations for VR
 - [UI/UX design for WebBR](https://www.youtube.com/watch?v=ZOaOYTOpwyM) - Josh Carpenter
 
 
-## Articles
+## Articles/Slides
 
 - [Designing for Google Cardboard](https://www.google.com/design/spec-vr/designing-for-google-cardboard/) - Google
 - [Designing for Virtual Reality](https://ustwo.com/blog/designing-for-virtual-reality-google-cardboard/) - Casey Hopkins
@@ -18,3 +18,8 @@ Some resources about the UI/UX considerations for VR
 - [Analyzing BR as a computing platform](https://medium.com/@beaucronin/analyzing-vr-as-a-computing-plaform-f4e53e25d078) - Beau Cronin
 - [From product design to Virtual Reality](https://medium.com/google-design/from-product-design-to-virtual-reality-be46fa793e9b) - Jean-Marc Denis
 - [The Fundamentals of User Experience in Virtual Reality](http://www.blockinterval.com/project-updates/2015/10/15/user-experience-in-virtual-reality) - Daniel Allen
+- [8 Things Every Educational Game Developer Needs to Know](http://blog.leapmotion.com/8-things-every-educational-game-developer-needs-know/) - Alex Colgan
+- [6 Principals of Leap Motion Interaction Design](http://blog.leapmotion.com/6-principles-of-interaction-design/) - Alex Colgan
+- [The Oculus Rift and User Experience](http://www.uxmatters.com/mt/archives/2013/10/the-oculus-rift-and-user-experience.php) - Peter Hornsby
+- [UX & Virtual Reality - Designing for interfaces without Screens](http://www.uxness.in/2015/08/ux-virtual-reality.html) - Prashanth Shanmugam
+- [UX in VR](http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9) - Laura Cortes
