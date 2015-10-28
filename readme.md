@@ -1,5 +1,7 @@
 # UI/UX VR
-Some resources about the UI/UX considerations for VR
+A list of resources about the UI/UX considerations for VR.
+
+Feel free to submit a Pull Request to add any that I've missed!
 
 
 ## Videos
