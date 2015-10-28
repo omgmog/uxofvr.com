@@ -26,4 +26,5 @@ Some resources about the UI/UX considerations for VR
 - [VRID: A Design Model and Methodology for Developing Virtual Reality Interfaces](http://www.cs.tufts.edu/~jacob/papers/vrst01.tanriverdi.pdf) - Vilvan tanriverdi & Robert J.K. Jacob
 - [Immersive Design - Learning to let go of the screen](https://medium.com/backchannel/immersive-design-76499204d5f6#.rw8u2q3gp) - Matt Sundstrom
 - [Mobile VR Application Development: User Interface Guidelines](https://developer.oculus.com/documentation/mobilesdk/latest/concepts/mobile-ui-guidelines-intro/) - Oculus
-- [Designing Intuitative Applications](https://developer.leapmotion.com/articles/designing-intuitive-applications) - Leapmotion Blog
+- [Designing Intuitative Applications](https://developer.leapmotion.com/articles/designing-intuitive-applications) - Leap Motion Blog
+- [VR Best Practice Guidelines](https://developer.leapmotion.com/vr-best-practices) - Leap Motion
