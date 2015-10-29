@@ -9,8 +9,8 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [VR Interface Design Pre-Visualisation Methods](https://www.youtube.com/watch?v=id86HeV-Vb8) - Mike Alger
 - [VR Interface Design Manifesto](https://www.youtube.com/watch?v=n3b8hZ5NV2E) - Mike Alger
 - [UI/UX design for WebBR](https://www.youtube.com/watch?v=ZOaOYTOpwyM) - Josh Carpenter
-- [Designing For Virtual Reality](https://www.youtube.com/watch?v=hM1AnOqaE-w) - Laura Cortes & Cyriele Piancastelli ([Slides](http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9))
 - [Designing for Virtual Reality](https://www.youtube.com/watch?v=Qwh1LBzz3AU&feature=youtu.be&t=8m8s) - Manuel Clément, Google I/O 2015
+- [Designing For Virtual Reality](https://www.youtube.com/watch?v=hM1AnOqaE-w) - Laura Cortes & Cyriele Piancastelli ([Slides](http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9))
 
 
 ## Articles/Slides
