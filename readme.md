@@ -30,3 +30,4 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Mobile VR Application Development: User Interface Guidelines](https://developer.oculus.com/documentation/mobilesdk/latest/concepts/mobile-ui-guidelines-intro/) - Oculus
 - [Designing Intuitative Applications](https://developer.leapmotion.com/articles/designing-intuitive-applications) - Leap Motion Blog
 - [VR Best Practice Guidelines](https://developer.leapmotion.com/vr-best-practices) - Leap Motion
+- [Immersive Modelling UX](http://www.madebykph.com/vr-ux) - Kristian P. Hansen
