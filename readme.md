@@ -31,3 +31,4 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Designing Intuitative Applications](https://developer.leapmotion.com/articles/designing-intuitive-applications) - Leap Motion Blog
 - [VR Best Practice Guidelines](https://developer.leapmotion.com/vr-best-practices) - Leap Motion
 - [Immersive Modelling UX](http://www.madebykph.com/vr-ux) - Kristian P. Hansen
+- [The rise of VR & AR era. Why this time is different?](http://www.slideshare.net/VRyzhonkov/the-rise-of-vr-ar-era-why-this-time-is-different) - Vasily Ryzhonkov
