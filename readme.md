@@ -11,6 +11,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [UI/UX design for WebBR](https://www.youtube.com/watch?v=ZOaOYTOpwyM) - Josh Carpenter
 - [Designing for Virtual Reality](https://www.youtube.com/watch?v=Qwh1LBzz3AU&feature=youtu.be&t=8m8s) - Manuel Clément, Google I/O 2015
 - [Designing For Virtual Reality](https://www.youtube.com/watch?v=hM1AnOqaE-w) - Laura Cortes & Cyriele Piancastelli ([Slides](http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9))
+- [VR UI](http://atomhawk.com/news/post/dan-talks-ui-vr-develop-2015) - Dan Gilmore
 
 
 ## Articles/Slides
@@ -34,3 +35,4 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Immersive Modelling UX](http://www.madebykph.com/vr-ux) - Kristian P. Hansen
 - [The rise of VR & AR era. Why this time is different?](http://www.slideshare.net/VRyzhonkov/the-rise-of-vr-ar-era-why-this-time-is-different) - Vasily Ryzhonkov
 - [The UX of 360 Video](http://www.foolproof.co.uk/thinking/the-ux-of-360-degree-video/) - Matt Radbourne
+- [5 Lessons I learned from designing the VR UI of Beloola](https://medium.com/beloola-all-our-news-updates/5-lessons-i-learned-from-designing-the-vrui-of-beloola-754f16062c0b#.evgt1cepa) - Vincent Munoz
