@@ -12,7 +12,8 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Designing for Virtual Reality](https://www.youtube.com/watch?v=Qwh1LBzz3AU&feature=youtu.be&t=8m8s) - Manuel Clément, Google I/O 2015
 - [Designing For Virtual Reality](https://www.youtube.com/watch?v=hM1AnOqaE-w) - Laura Cortes & Cyriele Piancastelli ([Slides](http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9))
 - [Designing UI for VR](http://atomhawk.com/news/post/dan-talks-ui-vr-develop-2015) - Dan Gilmore
-- [Designing for Virtual Reality](http://www.uxforvirtualreality.com/my-designing-for-virtual-reality-lightning-talk/)- Rebecca Torbochkin
+- [Designing for Virtual Reality](http://www.uxforvirtualreality.com/my-designing-for-virtual-reality-lightning-talk/) - Rebecca Torbochkin
+- [Virtual Reality UX UI: A video gallery of interactions](http://vruxui.com/)
 
 
 ## Articles/Slides
