@@ -38,3 +38,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [5 Lessons I learned from designing the VR UI of Beloola](https://medium.com/beloola-all-our-news-updates/5-lessons-i-learned-from-designing-the-vrui-of-beloola-754f16062c0b#.evgt1cepa) - Vincent Munoz
 - [Video game user interface design: Diegesis theory](http://devmag.org.za/2011/02/02/video-game-user-interface-design-diegesis-theory/) - Dave Russell
 - [Designing VR Tools](http://blog.leapmotion.com/designing-vr-tools-good-bad-ugly/) - Alex Colgan, Leap Motion
+
+## Books
+- [3D User Interfaces: Theory and Practice](http://www.amazon.co.uk/gp/product/0201758679/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0201758679&linkCode=as2&tag=blomg-21) (2004) - Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola
+- [ Learning Virtual Reality: Developing Immersive Experiences and Applications for Desktop, Web, and Mobile](http://www.amazon.co.uk/gp/product/1491922834/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1491922834&linkCode=as2&tag=blomg-21) (2015, O'Reilly) - Tony Parisi 
