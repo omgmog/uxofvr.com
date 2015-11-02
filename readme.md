@@ -37,3 +37,4 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [The UX of 360 Video](http://www.foolproof.co.uk/thinking/the-ux-of-360-degree-video/) - Matt Radbourne
 - [5 Lessons I learned from designing the VR UI of Beloola](https://medium.com/beloola-all-our-news-updates/5-lessons-i-learned-from-designing-the-vrui-of-beloola-754f16062c0b#.evgt1cepa) - Vincent Munoz
 - [Video game user interface design: Diegesis theory](http://devmag.org.za/2011/02/02/video-game-user-interface-design-diegesis-theory/) - Dave Russell
+- [Designing VR Tools](http://blog.leapmotion.com/designing-vr-tools-good-bad-ugly/) - Alex Colgan, Leap Motion
