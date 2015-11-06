@@ -43,6 +43,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [The Rise and Fall and Rise of Virtual Reality](http://www.theverge.com/a/virtual-reality) - Verge
 - [Virtual Reality User Research: Q & A](https://blinkux.com/blog/virtual-reality-user-research/) - Blink UX
 - [Some thoughts about designing for VR](http://www.gamasutra.com/blogs/CarletonDiLeo/20151104/258433/Some_thoughts_about_designing_for_VR.php) - Carleton DiLeo 
+- [Will Virtual Reality Eat Your Brain (Or Save Humanity)?](http://www.realvirtualshow.com/realvirtualshowblog/2015/10/28/will-virtual-reality-eat-your-brain-or-save-humanity) - Malia Probst
 
 ## Books
 - [3D User Interfaces: Theory and Practice](http://www.amazon.co.uk/gp/product/0201758679/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0201758679&linkCode=as2&tag=blomg-21) (2004) - Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola
