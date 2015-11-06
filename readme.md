@@ -14,6 +14,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Designing UI for VR](http://atomhawk.com/news/post/dan-talks-ui-vr-develop-2015) - Dan Gilmore
 - [Designing for Virtual Reality](http://www.uxforvirtualreality.com/my-designing-for-virtual-reality-lightning-talk/) - Rebecca Torbochkin
 - [Virtual Reality UX UI: A video gallery of interactions](http://vruxui.com/)
+- [Interaction Design in VR: Valve's Lessons](https://www.youtube.com/watch?v=_vQo0ApkAtI) - Yasser Malaika
 
 
 ## Articles/Slides
