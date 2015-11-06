@@ -41,6 +41,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Video game user interface design: Diegesis theory](http://devmag.org.za/2011/02/02/video-game-user-interface-design-diegesis-theory/) - Dave Russell
 - [Designing VR Tools](http://blog.leapmotion.com/designing-vr-tools-good-bad-ugly/) - Alex Colgan, Leap Motion
 - [The Rise and Fall and Rise of Virtual Reality](http://www.theverge.com/a/virtual-reality) - Verge
+- [Virtual Reality User Research: Q & A](https://blinkux.com/blog/virtual-reality-user-research/) - Blink UX
 
 ## Books
 - [3D User Interfaces: Theory and Practice](http://www.amazon.co.uk/gp/product/0201758679/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0201758679&linkCode=as2&tag=blomg-21) (2004) - Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola
