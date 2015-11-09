@@ -15,6 +15,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Designing for Virtual Reality](http://www.uxforvirtualreality.com/my-designing-for-virtual-reality-lightning-talk/) - Rebecca Torbochkin
 - [Virtual Reality UX UI: A video gallery of interactions](http://vruxui.com/)
 - [Interaction Design in VR: Valve's Lessons](https://www.youtube.com/watch?v=_vQo0ApkAtI) - Yasser Malaika
+- [The Holodeck is here - Designing for Room-Scale VR](https://www.youtube.com/watch?v=U8mku0JvuLI) - Alex Schwartz & Devin Reimer
 
 
 ## Articles/Slides
