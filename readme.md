@@ -16,6 +16,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Virtual Reality UX UI: A video gallery of interactions](http://vruxui.com/)
 - [Interaction Design in VR: Valve's Lessons](https://www.youtube.com/watch?v=_vQo0ApkAtI) - Yasser Malaika
 - [The Holodeck is here - Designing for Room-Scale VR](https://www.youtube.com/watch?v=U8mku0JvuLI) - Alex Schwartz & Devin Reimer
+- [Technical and Design Tips for VR/AR](https://www.youtube.com/watch?v=_2T0dwGYP0s) - Jay Santos & Pete Moss
 
 
 ## Articles/Slides
