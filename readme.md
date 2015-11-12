@@ -18,6 +18,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [The Holodeck is here - Designing for Room-Scale VR](https://www.youtube.com/watch?v=U8mku0JvuLI) - Alex Schwartz & Devin Reimer
 - [Technical and Design Tips for VR/AR](https://www.youtube.com/watch?v=_2T0dwGYP0s) - Jay Santos & Pete Moss
 - [The Dawn of Mobile VR](https://www.youtube.com/watch?v=CqdexZJFHQE) - John Carmack
+- [Navigating New Worlds: Designing UI and UX in VR](https://www.youtube.com/watch?v=braV_c4M8oI) - Kristoffer Brady & Richard Emms
 
 
 ## Articles/Slides
