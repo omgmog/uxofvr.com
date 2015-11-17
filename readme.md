@@ -52,6 +52,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Comfortable VR Movement in Dead Secret](http://robotinvader.com/blog/?p=493) - Robot Invader
 - [Storytelling in Virtual Reality: A Starter's Guide](http://www.vrdribble.com/allthingsvr/2015/11/4/storytelling-in-virtual-reality-a-starters-guide) - VR Dribble
 - [UX pointers for VR design](https://medium.com/@timoni/ux-pointers-for-vr-design-dd52b718e19) - Timoni West
+- [Going after a new VR Navigation System](https://medium.com/beloola-all-our-news-updates/going-after-a-new-vr-navigation-system-5439e0e860a2) - Thomas Balouet
 
 ## Books
 - [3D User Interfaces: Theory and Practice](http://www.amazon.co.uk/gp/product/0201758679/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0201758679&linkCode=as2&tag=blomg-21) (2004) - Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola
