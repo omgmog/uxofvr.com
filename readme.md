@@ -54,6 +54,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [UX pointers for VR design](https://medium.com/@timoni/ux-pointers-for-vr-design-dd52b718e19) - Timoni West
 - [Going after a new VR Navigation System](https://medium.com/beloola-all-our-news-updates/going-after-a-new-vr-navigation-system-5439e0e860a2) - Thomas Balouet
 - [Making Great VR: Six Lessons Learned From I Expect You To Die](http://www.gamasutra.com/blogs/JesseSchell/20150626/247113/) - Jesse Schell
+- [Design for Virtual Reality](http://blog.framerjs.com/posts/design-virtual-reality.html) - Framer JS Blog
 
 ## Books
 - [3D User Interfaces: Theory and Practice](http://www.amazon.co.uk/gp/product/0201758679/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0201758679&linkCode=as2&tag=blomg-21) (2004) - Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola
