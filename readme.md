@@ -19,6 +19,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Technical and Design Tips for VR/AR](https://www.youtube.com/watch?v=_2T0dwGYP0s) - Jay Santos & Pete Moss
 - [The Dawn of Mobile VR](https://www.youtube.com/watch?v=CqdexZJFHQE) - John Carmack
 - [Navigating New Worlds: Designing UI and UX in VR](https://www.youtube.com/watch?v=braV_c4M8oI) - Kristoffer Brady & Richard Emms
+- [Virtual Reality is a Medium: Creating Art with Oculus Touch](https://www.youtube.com/watch?v=gqrftCjQ4Q8&app=desktop) - Lydia Choy & Brian Sharp
 
 
 ## Articles/Slides
