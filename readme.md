@@ -31,8 +31,8 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Analyzing VR as a computing platform](https://medium.com/@beaucronin/analyzing-vr-as-a-computing-plaform-f4e53e25d078) - Beau Cronin
 - [From product design to Virtual Reality](https://medium.com/google-design/from-product-design-to-virtual-reality-be46fa793e9b) - Jean-Marc Denis
 - [The Fundamentals of User Experience in Virtual Reality](http://www.blockinterval.com/project-updates/2015/10/15/user-experience-in-virtual-reality) - Daniel Allen
-- [8 Things Every Educational Game Developer Needs to Know](http://blog.leapmotion.com/8-things-every-educational-game-developer-needs-know/) - Alex Colgan
-- [6 Principals of Leap Motion Interaction Design](http://blog.leapmotion.com/6-principles-of-interaction-design/) - Alex Colgan
+- [8 Things Every Educational Game Developer Needs to Know](http://blog.leapmotion.com/8-things-every-educational-game-developer-needs-know/) - Alex Colgan, Leap Motion
+- [6 Principals of Leap Motion Interaction Design](http://blog.leapmotion.com/6-principles-of-interaction-design/) - Alex Colgan, Leap Motion
 - [The Oculus Rift and User Experience](http://www.uxmatters.com/mt/archives/2013/10/the-oculus-rift-and-user-experience.php) - Peter Hornsby
 - [UX & Virtual Reality - Designing for interfaces without Screens](http://www.uxness.in/2015/08/ux-virtual-reality.html) - Prashanth Shanmugam
 - [VRID: A Design Model and Methodology for Developing Virtual Reality Interfaces](http://www.cs.tufts.edu/~jacob/papers/vrst01.tanriverdi.pdf) - Vilvan tanriverdi & Robert J.K. Jacob
@@ -58,6 +58,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Design for Virtual Reality](http://blog.framerjs.com/posts/design-virtual-reality.html) - Framer JS Blog
 - [The Swayze Effect](https://storystudio.oculus.com/en-us/blog/the-swayze-effect/) - Matt Burdette
 - [Recenter the HMD Before Starting Your Application](https://www.twentymilliseconds.com/post/recentering-hmd-best-practices/) - Kevin Burke
+- [VR Interaction Design from the Ground Up](http://blog.leapmotion.com/build-button-workshop-vr-interaction-design-ground/)  - Alex Colgan, Leap Motion
 
 ## Books
 - [3D User Interfaces: Theory and Practice](http://www.amazon.co.uk/gp/product/0201758679/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0201758679&linkCode=as2&tag=blomg-21) (2004) - Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola
