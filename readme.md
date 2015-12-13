@@ -58,7 +58,8 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Design for Virtual Reality](http://blog.framerjs.com/posts/design-virtual-reality.html) - Framer JS Blog
 - [The Swayze Effect](https://storystudio.oculus.com/en-us/blog/the-swayze-effect/) - Matt Burdette
 - [Recenter the HMD Before Starting Your Application](https://www.twentymilliseconds.com/post/recentering-hmd-best-practices/) - Kevin Burke
-- [VR Interaction Design from the Ground Up](http://blog.leapmotion.com/build-button-workshop-vr-interaction-design-ground/)  - Alex Colgan, Leap Motion
+- [VR Interaction Design from the Ground Up](http://blog.leapmotion.com/build-button-workshop-vr-interaction-design-ground/) - Alex Colgan, Leap Motion
+- [The fifth wall. Things learned while working with the HTC Vive](http://stateoflux.net/the-fifth-wall-things-learned-while-working-with-the-htc-vive/) - Daryl Atkins
 
 ## Books
 - [3D User Interfaces: Theory and Practice](http://www.amazon.co.uk/gp/product/0201758679/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0201758679&linkCode=as2&tag=blomg-21) (2004) - Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola
