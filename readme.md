@@ -67,6 +67,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [3D User Interfaces: Theory and Practice](http://www.amazon.co.uk/gp/product/0201758679/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0201758679&linkCode=as2&tag=blomg-21) (2004) - Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola
 - [ Learning Virtual Reality: Developing Immersive Experiences and Applications for Desktop, Web, and Mobile](http://www.amazon.co.uk/gp/product/1491922834/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1491922834&linkCode=as2&tag=blomg-21) (2015, O'Reilly) - Tony Parisi 
 - [Virtual Reality in Journalism](https://towcenter.gitbooks.io/virtual-reality-journalism/content/index.html)
+- [Oculus Rift in Action](http://amzn.to/1PxjloU) (2015, Manning Publications) - Bradley Davis, Karen Bryla, Alex Benton
 
 ## Code
 - [VR Design Lab - Unity project](https://github.com/VRUX-CO/VRDesignLab) - Open source VR design examples by VRUX.co
