@@ -20,7 +20,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [The Dawn of Mobile VR](https://www.youtube.com/watch?v=CqdexZJFHQE) - John Carmack
 - [Navigating New Worlds: Designing UI and UX in VR](https://www.youtube.com/watch?v=braV_c4M8oI) - Kristoffer Brady & Richard Emms
 - [Virtual Reality is a Medium: Creating Art with Oculus Touch](https://www.youtube.com/watch?v=gqrftCjQ4Q8&app=desktop) - Lydia Choy & Brian Sharp
-
+- [Designing Standing VR Experiences with Tracked Controllers](https://www.youtube.com/watch?v=hjc7AJwZ4DI) - Alex Schwartz & Devin Reimer (Owlchemy Labs)
 
 ## Articles/Slides
 
