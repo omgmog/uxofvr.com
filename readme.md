@@ -21,6 +21,8 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Navigating New Worlds: Designing UI and UX in VR](https://www.youtube.com/watch?v=braV_c4M8oI) - Kristoffer Brady & Richard Emms
 - [Virtual Reality is a Medium: Creating Art with Oculus Touch](https://www.youtube.com/watch?v=gqrftCjQ4Q8&app=desktop) - Lydia Choy & Brian Sharp
 - [Designing Standing VR Experiences with Tracked Controllers](https://www.youtube.com/watch?v=hjc7AJwZ4DI) - Alex Schwartz & Devin Reimer (Owlchemy Labs)
+- [Designing for VR: Environments and Interactions](https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Environments-and-Interactions) - Liv Erickson, Just A/VR (MSDN)
+- [Designing for VR: Input, Planning, and Testing](https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Input-Planning-and-Testing) - Liv Erickson, Just A/VR (MSDN)
 
 ## Articles/Slides
 
