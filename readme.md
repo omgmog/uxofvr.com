@@ -65,6 +65,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Unlocking VRs True Potential with UX](https://medium.com/this-place/unlocking-vr-s-true-potential-with-ux-5c31d7367fe#.jhs06utba) - Jim Yang
 - [How to turn a 6 slides keynote into a WebVR experience](http://unboring.net/cases/deepLinking.html) - Arturo Paracuellos
 - [Ten Do's And Don'ts To Improve Comfort in VR](http://www.blockinterval.com/project-updates/2015/10/16/ten-ways-to-improve-comfort-in-vr) - Daniel Allen
+- [Interaction Considerations for Virtual and Augmented Reality](https://livierickson.com/blog/oreilly-design-2016-interaction-considerations-for-virtual-and-augmented-reality/) - Liv Erickson
 
 ## Books
 - [3D User Interfaces: Theory and Practice](http://www.amazon.co.uk/gp/product/0201758679/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0201758679&linkCode=as2&tag=blomg-21) (2004) - Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola
