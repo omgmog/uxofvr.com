@@ -66,12 +66,15 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [How to turn a 6 slides keynote into a WebVR experience](http://unboring.net/cases/deepLinking.html) - Arturo Paracuellos
 - [Ten Do's And Don'ts To Improve Comfort in VR](http://www.blockinterval.com/project-updates/2015/10/16/ten-ways-to-improve-comfort-in-vr) - Daniel Allen
 - [Interaction Considerations for Virtual and Augmented Reality](https://livierickson.com/blog/oreilly-design-2016-interaction-considerations-for-virtual-and-augmented-reality/) - Liv Erickson
+- [A Sense of Scale in VR](http://kholdstare.github.io/technical/2013/10/06/sense-of-scale-vr.html) - Alexander Kondratskiy
+- [Get started with VR: user experience design](http://www.vrinflux.com/the-basics-of-virtual-reality-ux/) - Adrienne Hunter
 
 ## Books
-- [3D User Interfaces: Theory and Practice](http://www.amazon.co.uk/gp/product/0201758679/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0201758679&linkCode=as2&tag=blomg-21) (2004) - Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola
-- [ Learning Virtual Reality: Developing Immersive Experiences and Applications for Desktop, Web, and Mobile](http://www.amazon.co.uk/gp/product/1491922834/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1491922834&linkCode=as2&tag=blomg-21) (2015, O'Reilly) - Tony Parisi 
+- [3D User Interfaces: Theory and Practice](http://www.amazon.co.uk/gp/product/0201758679) (2004) - Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola
+- [ Learning Virtual Reality: Developing Immersive Experiences and Applications for Desktop, Web, and Mobile](http://www.amazon.co.uk/gp/product/1491922834) (2015, O'Reilly) - Tony Parisi 
 - [Virtual Reality in Journalism](https://towcenter.gitbooks.io/virtual-reality-journalism/content/index.html)
-- [Oculus Rift in Action](http://www.amazon.com/gp/product/1617292192/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1617292192&linkCode=as2&tag=lucienslibrary0d&linkId=I7V4QEFAKBGJ7UNU) (2015, Manning Publications) - Bradley Davis, Karen Bryla, Alex Benton
+- [Oculus Rift in Action](http://www.amazon.co.uk/gp/product/1617292192) (2015, Manning Publications) - Bradley Davis, Karen Bryla, Alex Benton
+- [Computers as Theatre](http://www.amazon.co.uk/gp/product/0321918622) - Brenda Laurel
 
 ## Code
 - [VR Design Lab - Unity project](https://github.com/VRUX-CO/VRDesignLab) - Open source VR design examples by VRUX.co
