@@ -68,6 +68,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Interaction Considerations for Virtual and Augmented Reality](https://livierickson.com/blog/oreilly-design-2016-interaction-considerations-for-virtual-and-augmented-reality/) - Liv Erickson
 - [A Sense of Scale in VR](http://kholdstare.github.io/technical/2013/10/06/sense-of-scale-vr.html) - Alexander Kondratskiy
 - [Get started with VR: user experience design](http://www.vrinflux.com/the-basics-of-virtual-reality-ux/) - Adrienne Hunter
+- [Buttons in Virtual Reality - A UI/UX Design Approach](http://realityshift.io/blog/buttons-in-virtual-reality-a-ui-ux-design-approach) - Torsten Sandor
 
 ## Books
 - [3D User Interfaces: Theory and Practice](http://www.amazon.co.uk/gp/product/0201758679) (2004) - Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola
