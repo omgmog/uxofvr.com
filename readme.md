@@ -71,6 +71,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [A Sense of Scale in VR](http://kholdstare.github.io/technical/2013/10/06/sense-of-scale-vr.html) - Alexander Kondratskiy
 - [Get started with VR: user experience design](http://www.vrinflux.com/the-basics-of-virtual-reality-ux/) - Adrienne Hunter
 - [Buttons in Virtual Reality - A UI/UX Design Approach](http://realityshift.io/blog/buttons-in-virtual-reality-a-ui-ux-design-approach) - Torsten Sandor
+- [A UX Designers Guide to Combat VR Sickness](http://realityshift.io/blog/a-ux-designers-guide-to-combat-vr-sickness) - Torsten Sandor
 
 ## Books
 - [3D User Interfaces: Theory and Practice](http://www.amazon.co.uk/gp/product/0201758679) (2004) - Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola
