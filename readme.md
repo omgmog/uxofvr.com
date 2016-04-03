@@ -25,6 +25,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Designing for VR: Input, Planning, and Testing](https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Input-Planning-and-Testing) - Liv Erickson, Just A/VR (MSDN)
 - [Future VR Input & UX Solutions](https://www.youtube.com/watch?v=ILw_-rNNsxE) - Stephen Tanguay
 - [Building Better Worlds - Virtual Wearable Interfaces + More] (https://youtu.be/kX5mMfhRjJo?t=32m20s) - David Holz (Leap Motion)
+- [Documentation for Focal Point VR - An interaction design framework for Unity] (https://www.youtube.com/watch?v=zzItw0i45Do) - Albert Huang
 
 ## Articles/Slides
 
@@ -83,3 +84,4 @@ Feel free to submit a Pull Request to add any that I've missed!
 
 ## Code
 - [VR Design Lab - Unity project](https://github.com/VRUX-CO/VRDesignLab) - Open source VR design examples by VRUX.co
+- [Focal Point VR - Unity Demo Scenes](http://www.albert-hwang.com/focal-point-vr) - An Open-Source VR Interaction Framework for the HTC Vive and Unity by Albert Hwang
