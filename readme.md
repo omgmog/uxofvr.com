@@ -72,6 +72,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Get started with VR: user experience design](http://www.vrinflux.com/the-basics-of-virtual-reality-ux/) - Adrienne Hunter
 - [Buttons in Virtual Reality - A UI/UX Design Approach](http://realityshift.io/blog/buttons-in-virtual-reality-a-ui-ux-design-approach) - Torsten Sandor
 - [A UX Designers Guide to Combat VR Sickness](http://realityshift.io/blog/a-ux-designers-guide-to-combat-vr-sickness) - Torsten Sandor
+- [You’re the center of the universe: A UX guide to designing virtual reality experiences](http://www.dtelepathy.com/blog/philosophy/ux-guide-designing-virtual-reality-experiences) - Samantha Anderson
 
 ## Books
 - [3D User Interfaces: Theory and Practice](http://www.amazon.co.uk/gp/product/0201758679) (2004) - Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola
