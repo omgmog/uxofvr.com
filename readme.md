@@ -24,6 +24,8 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Designing for VR: Environments and Interactions](https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Environments-and-Interactions) - Liv Erickson, Just A/VR (MSDN)
 - [Designing for VR: Input, Planning, and Testing](https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Input-Planning-and-Testing) - Liv Erickson, Just A/VR (MSDN)
 - [Future VR Input & UX Solutions](https://www.youtube.com/watch?v=ILw_-rNNsxE) - Stephen Tanguay
+- [Building Better Worlds - Virtual Wearable Interfaces + More] (https://youtu.be/kX5mMfhRjJo?t=32m20s) - David Holz (Leap Motion)
+- [Documentation for Focal Point VR - An interaction design framework for Unity] (https://www.youtube.com/watch?v=zzItw0i45Do) - Albert Huang
 
 ## Articles/Slides
 
@@ -52,7 +54,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Designing VR Tools](http://blog.leapmotion.com/designing-vr-tools-good-bad-ugly/) - Alex Colgan, Leap Motion
 - [The Rise and Fall and Rise of Virtual Reality](http://www.theverge.com/a/virtual-reality) - Verge
 - [Virtual Reality User Research: Q & A](https://blinkux.com/blog/virtual-reality-user-research/) - Blink UX
-- [Some thoughts about designing for VR](http://www.gamasutra.com/blogs/CarletonDiLeo/20151104/258433/Some_thoughts_about_designing_for_VR.php) - Carleton DiLeo 
+- [Some thoughts about designing for VR](http://www.gamasutra.com/blogs/CarletonDiLeo/20151104/258433/Some_thoughts_about_designing_for_VR.php) - Carleton DiLeo
 - [Will Virtual Reality Eat Your Brain (Or Save Humanity)?](http://www.realvirtualshow.com/realvirtualshowblog/2015/10/28/will-virtual-reality-eat-your-brain-or-save-humanity) - Malia Probst
 - [Comfortable VR Movement in Dead Secret](http://robotinvader.com/blog/?p=493) - Robot Invader
 - [Storytelling in Virtual Reality: A Starter's Guide](http://www.vrdribble.com/allthingsvr/2015/11/4/storytelling-in-virtual-reality-a-starters-guide) - VR Dribble
@@ -78,10 +80,11 @@ Feel free to submit a Pull Request to add any that I've missed!
 
 ## Books
 - [3D User Interfaces: Theory and Practice](http://www.amazon.co.uk/gp/product/0201758679) (2004) - Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola
-- [ Learning Virtual Reality: Developing Immersive Experiences and Applications for Desktop, Web, and Mobile](http://www.amazon.co.uk/gp/product/1491922834) (2015, O'Reilly) - Tony Parisi 
+- [ Learning Virtual Reality: Developing Immersive Experiences and Applications for Desktop, Web, and Mobile](http://www.amazon.co.uk/gp/product/1491922834) (2015, O'Reilly) - Tony Parisi
 - [Virtual Reality in Journalism](https://towcenter.gitbooks.io/virtual-reality-journalism/content/index.html)
 - [Oculus Rift in Action](http://www.amazon.co.uk/gp/product/1617292192) (2015, Manning Publications) - Bradley Davis, Karen Bryla, Alex Benton
 - [Computers as Theatre](http://www.amazon.co.uk/gp/product/0321918622) - Brenda Laurel
 
 ## Code
 - [VR Design Lab - Unity project](https://github.com/VRUX-CO/VRDesignLab) - Open source VR design examples by VRUX.co
+- [Focal Point VR - Unity Demo Scenes](http://www.albert-hwang.com/focal-point-vr) - An Open-Source VR Interaction Framework for the HTC Vive and Unity by Albert Hwang
