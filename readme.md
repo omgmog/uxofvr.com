@@ -78,6 +78,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [You’re the center of the universe: A UX guide to designing virtual reality experiences](http://www.dtelepathy.com/blog/philosophy/ux-guide-designing-virtual-reality-experiences) - Samantha Anderson
 - [The Storyteller’s Guide to the Virtual Reality Audience](https://medium.com/stanford-d-school/the-storyteller-s-guide-to-the-virtual-reality-audience-19e92da57497) - Katy Newton, Karin Soukup
 - [Cause & Effect— VR’s Essential Interaction](https://medium.com/@WizardofAz/cause-effect-vr-s-essential-interaction-efff0471b470#.70f327a2b) - Azad Balabanian
+- [The UX of VR: How to design user experiences for this new medium](http://www.creativebloq.com/ux/the-user-experience-of-virtual-reality-31619635) - Laura Cortes
 
 ## Books
 - [3D User Interfaces: Theory and Practice](http://www.amazon.co.uk/gp/product/0201758679) (2004) - Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola
