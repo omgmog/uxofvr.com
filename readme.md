@@ -27,6 +27,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Building Better Worlds - Virtual Wearable Interfaces + More] (https://youtu.be/kX5mMfhRjJo?t=32m20s) - David Holz (Leap Motion)
 - [Documentation for Focal Point VR - An interaction design framework for Unity] (https://www.youtube.com/watch?v=zzItw0i45Do) - Albert Huang
 - [Building 3-Dimensional UI for VR](http://www.gdcvault.com/play/1023652/Building-3-Dimensional-UI-for-VR) - Riho Kroll
+- [The Role of Space in VR](https://www.youtube.com/watch?v=RNs7C-kHdM4) - Alex Chu
 
 ## Articles/Slides
 
