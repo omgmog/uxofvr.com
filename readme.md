@@ -27,7 +27,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Documentation for Focal Point VR - An interaction design framework for Unity] (https://www.youtube.com/watch?v=zzItw0i45Do) - Albert Huang
 - [Building 3-Dimensional UI for VR](http://www.gdcvault.com/play/1023652/Building-3-Dimensional-UI-for-VR) - Riho Kroll
 - [The Role of Space in VR](https://www.youtube.com/watch?v=RNs7C-kHdM4) - Alex Chu
-- [Don't just teleport - How to walk around something that is bigger than your tracked space](https://www.youtube.com/watch?v=At_Zac4Xezw) - Daniel Sproll
+- [Don't just teleport - How to walk around something that is bigger than your tracked space](https://www.youtube.com/watch?v=At_Zac4Xezw) - Daniel Sproll & Diego Montoya
 
 ## Articles/Slides
 - [Designing for Google Cardboard](https://www.google.com/design/spec-vr/designing-for-google-cardboard/) - Google
