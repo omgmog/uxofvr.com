@@ -82,7 +82,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [The user is disabled: solving for physical limitations in VR](http://vrinflux.com/the-user-is-disabled-solving-for-physical-limitations-in-vr/) - Adrienne Hunter
 - [NewtonVR: Physics-based interaction on the Vive (Part 1)](http://vrinflux.com/newton-vr-physics-based-interaction-on-the-vive/) - Nick Abel
 - [Limbo - dolly shots for cinematic VR](http://uploadvr.com/introducing-limbo-a-vr-camera-movement-technique-by-the-developers-of-colosse/) - Daniel Sproll
-- [Limbo - dolly shots for cinematic VR](http://zanytomato.tumblr.com/post/140725769440/the-fidelity-contract-in-vr) - Kimberly Voll
+- [The Fidelity Contract in VR](http://zanytomato.tumblr.com/post/140725769440/the-fidelity-contract-in-vr) - Kimberly Voll
 
 ## Books
 - [3D User Interfaces: Theory and Practice](http://www.amazon.co.uk/gp/product/0201758679) (2004) - Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola
