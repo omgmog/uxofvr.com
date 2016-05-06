@@ -28,6 +28,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Building 3-Dimensional UI for VR](http://www.gdcvault.com/play/1023652/Building-3-Dimensional-UI-for-VR) - Riho Kroll
 - [The Role of Space in VR](https://www.youtube.com/watch?v=RNs7C-kHdM4) - Alex Chu
 - [Don't just teleport - How to walk around something that is bigger than your tracked space](https://www.youtube.com/watch?v=At_Zac4Xezw) - Daniel Sproll & Diego Montoya
+- [VR Microtalks: Intersections of Design & Technology](https://www.youtube.com/watch?v=VtCuLd3wpEw) - VRDC 2016
 
 ## Articles/Slides
 - [Designing for Google Cardboard](https://www.google.com/design/spec-vr/designing-for-google-cardboard/) - Google
