@@ -5,7 +5,6 @@ Feel free to submit a Pull Request to add any that I've missed!
 
 
 ## Videos
-
 - [VR Interface Design Pre-Visualisation Methods](https://www.youtube.com/watch?v=id86HeV-Vb8) - Mike Alger
 - [VR Interface Design Manifesto](https://www.youtube.com/watch?v=n3b8hZ5NV2E) - Mike Alger
 - [UI/UX design for WebVR](https://www.youtube.com/watch?v=ZOaOYTOpwyM) - Josh Carpenter
@@ -28,9 +27,9 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [Documentation for Focal Point VR - An interaction design framework for Unity] (https://www.youtube.com/watch?v=zzItw0i45Do) - Albert Huang
 - [Building 3-Dimensional UI for VR](http://www.gdcvault.com/play/1023652/Building-3-Dimensional-UI-for-VR) - Riho Kroll
 - [The Role of Space in VR](https://www.youtube.com/watch?v=RNs7C-kHdM4) - Alex Chu
+- [Don't just teleport - How to walk around something that is bigger than your tracked space](https://www.youtube.com/watch?v=At_Zac4Xezw) - Daniel Sproll
 
 ## Articles/Slides
-
 - [Designing for Google Cardboard](https://www.google.com/design/spec-vr/designing-for-google-cardboard/) - Google
 - [Designing for Virtual Reality](https://ustwo.com/blog/designing-for-virtual-reality-google-cardboard/) - Casey Hopkins
 - [The hierarchy of needs in virtual reality development](https://medium.com/@beaucronin/the-hierarchy-of-needs-in-virtual-reality-development-4333a4833acc) - Beau Cronin
@@ -82,6 +81,8 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [The UX of VR: How to design user experiences for this new medium](http://www.creativebloq.com/ux/the-user-experience-of-virtual-reality-31619635) - Laura Cortes
 - [The user is disabled: solving for physical limitations in VR](http://vrinflux.com/the-user-is-disabled-solving-for-physical-limitations-in-vr/) - Adrienne Hunter
 - [NewtonVR: Physics-based interaction on the Vive (Part 1)](http://vrinflux.com/newton-vr-physics-based-interaction-on-the-vive/) - Nick Abel
+- [Limbo - dolly shots for cinematic VR](http://uploadvr.com/introducing-limbo-a-vr-camera-movement-technique-by-the-developers-of-colosse/) - Daniel Sproll
+- [Limbo - dolly shots for cinematic VR](http://zanytomato.tumblr.com/post/140725769440/the-fidelity-contract-in-vr) - Kimberly Voll
 
 ## Books
 - [3D User Interfaces: Theory and Practice](http://www.amazon.co.uk/gp/product/0201758679) (2004) - Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola
