@@ -84,6 +84,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [NewtonVR: Physics-based interaction on the Vive (Part 1)](http://vrinflux.com/newton-vr-physics-based-interaction-on-the-vive/) - Nick Abel
 - [Limbo - dolly shots for cinematic VR](http://uploadvr.com/introducing-limbo-a-vr-camera-movement-technique-by-the-developers-of-colosse/) - Daniel Sproll
 - [The Fidelity Contract in VR](http://zanytomato.tumblr.com/post/140725769440/the-fidelity-contract-in-vr) - Kimberly Voll
+- [Design Practices in Virtual Reality](https://medium.com/@jonathanravasz/design-practices-in-virtual-reality-f900f5935826#.ucm8ltdiz) - Jonathan Ravasz
 
 ## Books
 - [3D User Interfaces: Theory and Practice](http://www.amazon.co.uk/gp/product/0201758679) (2004) - Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola
