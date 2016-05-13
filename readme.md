@@ -86,6 +86,7 @@ Feel free to submit a Pull Request to add any that I've missed!
 - [The Fidelity Contract in VR](http://zanytomato.tumblr.com/post/140725769440/the-fidelity-contract-in-vr) - Kimberly Voll
 - [Design Practices in Virtual Reality](https://medium.com/@jonathanravasz/design-practices-in-virtual-reality-f900f5935826#.ucm8ltdiz) - Jonathan Ravasz
 - [Social VR Solutions: How to design Social VR so it isn’t awful](http://suzanimator.com/2016/05/10/social-vr-solutions/) - Suzanne Leibrick
+- [The Climb VR Menu](https://www.behance.net/gallery/36973013/The-Climb-VR-Menu) - Riho Kroll
 
 ## Books
 - [3D User Interfaces: Theory and Practice](http://www.amazon.co.uk/gp/product/0201758679) (2004) - Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola
