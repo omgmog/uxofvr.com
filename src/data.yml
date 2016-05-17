@@ -1,0 +1,488 @@
+---
+title_short: The UX of VR
+title_full: The User Experience of Virtual Reality
+subtitle: A curated list of resources to help you on your journey into the User Experience of Virtual Reality
+intro:
+  - Many thanks to all of the authors of the talks, articles, and guides referenced in the list. Without these people doing the hard thinking, Virtual Reality wouldn't be where it is today.
+  - If you would like to suggest a resource, you can do so by creating an issue on Github.
+github:
+  issue_url: "https://github.com/omgmog/uxofvr.com/issues/new"
+  button_text: "Suggest a resource"
+twitter:
+  url_base: "https://twitter.com/intent/tweet?text="
+  message: "Check out this awesome list of %23UX of %23VR resources %23VirtualReality %23UserExperience"
+  button_text: "Share on Twitter"
+sections:
+  - s: Video
+    p: Videos
+    _: video
+  - s: Article
+    p: Articles
+    _: article
+  - s: Slides
+    p: Slides
+    _: slides
+  - s: Book
+    p: Books
+    _: book
+  - s: Code
+    p: Code
+    _: code
+
+resources:
+  # videos
+  - title: "VR Interface Design Pre-Visualisation Methods"
+    url: "https://www.youtube.com/watch?v=id86HeV-Vb8"
+    author: "Mike Alger"
+    tags:
+      - Video
+  - title: "VR Interface Design Manifesto"
+    url: "https://www.youtube.com/watch?v=n3b8hZ5NV2E"
+    author: "Mike Alger"
+    tags:
+      - Video
+  - title: "UI/UX design for WebVR"
+    url: "https://www.youtube.com/watch?v=ZOaOYTOpwyM"
+    author: "Josh Carpenter"
+    tags:
+      - Video
+  - title: "Designing for Virtual Reality"
+    url: "https://www.youtube.com/watch?v=Qwh1LBzz3AU"
+    author: "Manuel Clément, Google I/O 2015"
+    tags:
+      - Video
+  - title: "UX in VR: Designing For Virtual Reality"
+    url: "https://www.youtube.com/watch?v=hM1AnOqaE-w"
+    author: "Laura Cortes & Cyriele Piancastelli"
+    tags:
+      - Video
+  - title: "Designing UI for VR"
+    url: "http://atomhawk.com/news/post/dan-talks-ui-vr-develop-2015"
+    author: "Dan Gilmore"
+    tags:
+      - Video
+  - title: "Designing for Virtual Reality"
+    url: "http://www.uxforvirtualreality.com/my-designing-for-virtual-reality-lightning-talk/"
+    author: "Rebecca Torbochkin"
+    tags:
+      - Video
+  - title: "Virtual Reality UX UI: A video gallery of interactions"
+    url: "http://vruxui.com/"
+    author: ""
+    tags:
+      - Video
+  - title: "Interaction Design in VR: Valve's Lessons"
+    url: "https://www.youtube.com/watch?v=_vQo0ApkAtI"
+    author: "Yasser Malaika"
+    tags:
+      - Video
+  - title: "The Holodeck is here - Designing for Room-Scale VR"
+    url: "https://www.youtube.com/watch?v=U8mku0JvuLI"
+    author: "Alex Schwartz & Devin Reimer"
+    tags:
+      - Video
+  - title: "Technical and Design Tips for VR/AR"
+    url: "https://www.youtube.com/watch?v=_2T0dwGYP0s"
+    author: "Jay Santos & Pete Moss"
+    tags:
+      - Video
+  - title: "The Dawn of Mobile VR"
+    url: "https://www.youtube.com/watch?v=CqdexZJFHQE"
+    author: "John Carmack"
+    tags:
+      - Video
+  - title: "Navigating New Worlds: Designing UI and UX in VR"
+    url: "https://www.youtube.com/watch?v=braV_c4M8oI"
+    author: "Kristoffer Brady & Richard Emms"
+    tags:
+      - Video
+  - title: "Virtual Reality is a Medium: Creating Art with Oculus Touch"
+    url: "https://www.youtube.com/watch?v=gqrftCjQ4Q8"
+    author: "Lydia Choy & Brian Sharp"
+    tags:
+      - Video
+  - title: "Designing Standing VR Experiences with Tracked Controllers"
+    url: "https://www.youtube.com/watch?v=hjc7AJwZ4DI"
+    author: "Alex Schwartz & Devin Reimer (Owlchemy Labs)"
+    tags:
+      - Video
+  - title: "Designing for VR: Environments and Interactions"
+    url: "https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Environments-and-Interactions"
+    author: "Liv Erickson, Just A/VR (MSDN)"
+    tags:
+      - Video
+  - title: "Designing for VR: Input, Planning, and Testing"
+    url: "https://channel9.msdn.com/blogs/misslivirose/Designing-for-VR-Input-Planning-and-Testing"
+    author: "Liv Erickson, Just A/VR (MSDN)"
+    tags:
+      - Video
+  - title: "Future VR Input & UX Solutions"
+    url: "https://www.youtube.com/watch?v=ILw_-rNNsxE"
+    author: "Stephen Tanguay"
+    tags:
+      - Video
+  - title: "Building Better Worlds - Virtual Wearable Interfaces + More"
+    url: "https://www.youtube.com/watch?=kX5mMfhRjJo"
+    author: "David Holz (Leap Motion)"
+    tags:
+      - Video
+  - title: "Documentation for Focal Point VR - An interaction design framework for Unity"
+    url: "https://www.youtube.com/watch?v=zzItw0i45Do"
+    author: "Albert Huang"
+    tags:
+      - Video
+  - title: "Building 3-Dimensional UI for VR"
+    url: "http://www.gdcvault.com/play/1023652/Building-3-Dimensional-UI-for-VR"
+    author: "Riho Kroll"
+    tags:
+      - Video
+  - title: "The Role of Space in VR"
+    url: "https://www.youtube.com/watch?v=RNs7C-kHdM4"
+    author: "Alex Chu"
+    tags:
+      - Video
+  - title: "Don't just teleport - How to walk around something that is bigger than your tracked space"
+    url: "https://www.youtube.com/watch?v=At_Zac4Xezw"
+    author: "Daniel Sproll & Diego Montoya"
+    tags:
+      - Video
+  - title: "VR Microtalks: Intersections of Design & Technology"
+    url: "https://www.youtube.com/watch?v=VtCuLd3wpEw"
+    author: "VRDC 2016"
+    tags:
+      - Video
+  # articles
+  - title: "Designing for Google Cardboard"
+    url: "https://www.google.com/design/spec-vr/designing-for-google-cardboard/"
+    author: "Google"
+    tags:
+      - Article
+  - title: "Designing for Virtual Reality"
+    url: "https://ustwo.com/blog/designing-for-virtual-reality-google-cardboard/"
+    author: "Casey Hopkins"
+    tags:
+      - Article
+  - title: "The hierarchy of needs in virtual reality development"
+    url: "https://medium.com/@beaucronin/the-hierarchy-of-needs-in-virtual-reality-development-4333a4833acc"
+    author: "Beau Cronin"
+    tags:
+      - Article
+  - title: "Speculations on neuro-motivated design for VR"
+    url: "https://medium.com/@beaucronin/speculations-on-neuro-motivated-design-for-vr-3f26685c5c40"
+    author: "Beau Cronin"
+    tags:
+      - Article
+  - title: "Analyzing VR as a computing platform"
+    url: "https://medium.com/@beaucronin/analyzing-vr-as-a-computing-plaform-f4e53e25d078"
+    author: "Beau Cronin"
+    tags:
+      - Article
+  - title: "From product design to Virtual Reality"
+    url: "https://medium.com/google-design/from-product-design-to-virtual-reality-be46fa793e9b"
+    author: "Jean-Marc Denis"
+    tags:
+      - Article
+  - title: "The Fundamentals of User Experience in Virtual Reality"
+    url: "http://www.blockinterval.com/project-updates/2015/10/15/user-experience-in-virtual-reality"
+    author: "Daniel Allen"
+    tags:
+      - Article
+  - title: "8 Things Every Educational Game Developer Needs to Know"
+    url: "http://blog.leapmotion.com/8-things-every-educational-game-developer-needs-know/"
+    author: "Alex Colgan, Leap Motion"
+    tags:
+      - Article
+  - title: "6 Principals of Leap Motion Interaction Design"
+    url: "http://blog.leapmotion.com/6-principles-of-interaction-design/"
+    author: "Alex Colgan, Leap Motion"
+    tags:
+      - Article
+  - title: "The Oculus Rift and User Experience"
+    url: "http://www.uxmatters.com/mt/archives/2013/10/the-oculus-rift-and-user-experience.php"
+    author: "Peter Hornsby"
+    tags:
+      - Article
+  - title: "UX & Virtual Reality - Designing for interfaces without Screens"
+    url: "http://www.uxness.in/2015/08/ux-virtual-reality.html"
+    author: "Prashanth Shanmugam"
+    tags:
+      - Article
+  - title: "VRID: A Design Model and Methodology for Developing Virtual Reality Interfaces"
+    url: "http://www.cs.tufts.edu/~jacob/papers/vrst01.tanriverdi.pdf"
+    author: "Vilvan tanriverdi & Robert J.K. Jacob"
+    tags:
+      - Article
+  - title: "Immersive Design - Learning to let go of the screen"
+    url: "https://medium.com/backchannel/immersive-design-76499204d5f6#.rw8u2q3gp"
+    author: "Matt Sundstrom"
+    tags:
+      - Article
+  - title: "Mobile VR Application Development: User Interface Guidelines"
+    url: "https://developer.oculus.com/documentation/mobilesdk/latest/concepts/mobile-ui-guidelines-intro/"
+    author: "Oculus"
+    tags:
+      - Article
+  - title: "Oculus Best Practices for Creating Great VR Content"
+    url: "https://developer.oculus.com/documentation/intro-vr/latest/concepts/book-bp/"
+    author: "Oculus"
+    tags:
+      - Article
+  - title: "Designing Intuitative Applications"
+    url: "https://developer.leapmotion.com/articles/designing-intuitive-applications"
+    author: "Leap Motion Blog"
+    tags:
+      - Article
+  - title: "VR Best Practice Guidelines"
+    url: "https://developer.leapmotion.com/vr-best-practices"
+    author: "Leap Motion"
+    tags:
+      - Article
+  - title: "Immersive Modelling UX"
+    url: "http://www.madebykph.com/vr-ux"
+    author: "Kristian P. Hansen"
+    tags:
+      - Article
+  - title: "The UX of 360 Video"
+    url: "http://www.foolproof.co.uk/thinking/the-ux-of-360-degree-video/"
+    author: "Matt Radbourne"
+    tags:
+      - Article
+  - title: "5 Lessons I learned from designing the VR UI of Beloola"
+    url: "https://medium.com/beloola-all-our-news-updates/5-lessons-i-learned-from-designing-the-vrui-of-beloola-754f16062c0b#.evgt1cepa"
+    author: "Vincent Munoz"
+    tags:
+      - Article
+  - title: "Video game user interface design: Diegesis theory"
+    url: "http://devmag.org.za/2011/02/02/video-game-user-interface-design-diegesis-theory/"
+    author: "Dave Russell"
+    tags:
+      - Article
+  - title: "Designing VR Tools"
+    url: "http://blog.leapmotion.com/designing-vr-tools-good-bad-ugly/"
+    author: "Alex Colgan, Leap Motion"
+    tags:
+      - Article
+  - title: "The Rise and Fall and Rise of Virtual Reality"
+    url: "http://www.theverge.com/a/virtual-reality"
+    author: "Verge"
+    tags:
+      - Article
+  - title: "Virtual Reality User Research: Q & A"
+    url: "https://blinkux.com/blog/virtual-reality-user-research/"
+    author: "Blink UX"
+    tags:
+      - Article
+  - title: "Some thoughts about designing for VR"
+    url: "http://www.gamasutra.com/blogs/CarletonDiLeo/20151104/258433/Some_thoughts_about_designing_for_VR.php"
+    author: "Carleton DiLeo"
+    tags:
+      - Article
+  - title: "Will Virtual Reality Eat Your Brain (Or Save Humanity)?"
+    url: "http://www.realvirtualshow.com/realvirtualshowblog/2015/10/28/will-virtual-reality-eat-your-brain-or-save-humanity"
+    author: "Malia Probst"
+    tags:
+      - Article
+  - title: "Comfortable VR Movement in Dead Secret"
+    url: "http://robotinvader.com/blog/?p=493"
+    author: "Robot Invader"
+    tags:
+      - Article
+  - title: "Storytelling in Virtual Reality: A Starter's Guide"
+    url: "http://www.vrdribble.com/allthingsvr/2015/11/4/storytelling-in-virtual-reality-a-starters-guide"
+    author: "VR Dribble"
+    tags:
+      - Article
+  - title: "UX pointers for VR design"
+    url: "https://medium.com/@timoni/ux-pointers-for-vr-design-dd52b718e19"
+    author: "Timoni West"
+    tags:
+      - Article
+  - title: "Going after a new VR Navigation System"
+    url: "https://medium.com/beloola-all-our-news-updates/going-after-a-new-vr-navigation-system-5439e0e860a2"
+    author: "Thomas Balouet"
+    tags:
+      - Article
+  - title: "Making Great VR: Six Lessons Learned From I Expect You To Die"
+    url: "http://www.gamasutra.com/blogs/JesseSchell/20150626/247113/"
+    author: "Jesse Schell"
+    tags:
+      - Article
+  - title: "Design for Virtual Reality"
+    url: "http://blog.framerjs.com/posts/design-virtual-reality.html"
+    author: "Framer JS Blog"
+    tags:
+      - Article
+  - title: "The Swayze Effect"
+    url: "https://storystudio.oculus.com/en-us/blog/the-swayze-effect/"
+    author: "Matt Burdette"
+    tags:
+      - Article
+  - title: "Recenter the HMD Before Starting Your Application"
+    url: "https://www.twentymilliseconds.com/post/recentering-hmd-best-practices/"
+    author: "Kevin Burke"
+    tags:
+      - Article
+  - title: "VR Interaction Design from the Ground Up"
+    url: "http://blog.leapmotion.com/build-button-workshop-vr-interaction-design-ground/"
+    author: "Alex Colgan, Leap Motion"
+    tags:
+      - Article
+  - title: "The fifth wall. Things learned while working with the HTC Vive"
+    url: "http://stateoflux.net/the-fifth-wall-things-learned-while-working-with-the-htc-vive/"
+    author: "Daryl Atkins"
+    tags:
+      - Article
+  - title: "Unlocking VRs True Potential with UX"
+    url: "https://medium.com/this-place/unlocking-vr-s-true-potential-with-ux-5c31d7367fe#.jhs06utba"
+    author: "Jim Yang"
+    tags:
+      - Article
+  - title: "How to turn a 6 slides keynote into a WebVR experience"
+    url: "http://unboring.net/cases/deepLinking.html"
+    author: "Arturo Paracuellos"
+    tags:
+      - Article
+  - title: "Ten Do's And Don'ts To Improve Comfort in VR"
+    url: "http://www.blockinterval.com/project-updates/2015/10/16/ten-ways-to-improve-comfort-in-vr"
+    author: "Daniel Allen"
+    tags:
+      - Article
+  - title: "Interaction Considerations for Virtual and Augmented Reality"
+    url: "https://livierickson.com/blog/oreilly-design-2016-interaction-considerations-for-virtual-and-augmented-reality/"
+    author: "Liv Erickson"
+    tags:
+      - Article
+  - title: "A Sense of Scale in VR"
+    url: "http://kholdstare.github.io/technical/2013/10/06/sense-of-scale-vr.html"
+    author: "Alexander Kondratskiy"
+    tags:
+      - Article
+  - title: "Get started with VR: user experience design"
+    url: "http://www.vrinflux.com/the-basics-of-virtual-reality-ux/"
+    author: "Adrienne Hunter"
+    tags:
+      - Article
+  - title: "Buttons in Virtual Reality - A UI/UX Design Approach"
+    url: "http://realityshift.io/blog/buttons-in-virtual-reality-a-ui-ux-design-approach"
+    author: "Torsten Sandor"
+    tags:
+      - Article
+  - title: "A UX Designers Guide to Combat VR Sickness"
+    url: "http://realityshift.io/blog/a-ux-designers-guide-to-combat-vr-sickness"
+    author: "Torsten Sandor"
+    tags:
+      - Article
+  - title: "You’re the center of the universe: A UX guide to designing virtual reality experiences"
+    url: "http://www.dtelepathy.com/blog/philosophy/ux-guide-designing-virtual-reality-experiences"
+    author: "Samantha Anderson"
+    tags:
+      - Article
+  - title: "The Storyteller’s Guide to the Virtual Reality Audience"
+    url: "https://medium.com/stanford-d-school/the-storyteller-s-guide-to-the-virtual-reality-audience-19e92da57497"
+    author: "Katy Newton, Karin Soukup"
+    tags:
+      - Article
+  - title: "Cause & Effect— VR’s Essential Interaction"
+    url: "https://medium.com/@WizardofAz/cause-effect-vr-s-essential-interaction-efff0471b470#.70f327a2b"
+    author: "Azad Balabanian"
+    tags:
+      - Article
+  - title: "The UX of VR: How to design user experiences for this new medium"
+    url: "http://www.creativebloq.com/ux/the-user-experience-of-virtual-reality-31619635"
+    author: "Laura Cortes"
+    tags:
+      - Article
+  - title: "The user is disabled: solving for physical limitations in VR"
+    url: "http://vrinflux.com/the-user-is-disabled-solving-for-physical-limitations-in-vr/"
+    author: "Adrienne Hunter"
+    tags:
+      - Article
+  - title: "NewtonVR: Physics-based interaction on the Vive (Part 1)"
+    url: "http://vrinflux.com/newton-vr-physics-based-interaction-on-the-vive/"
+    author: "Nick Abel"
+    tags:
+      - Article
+  - title: "Limbo - dolly shots for cinematic VR"
+    url: "http://uploadvr.com/introducing-limbo-a-vr-camera-movement-technique-by-the-developers-of-colosse/"
+    author: "Daniel Sproll"
+    tags:
+      - Article
+  - title: "The Fidelity Contract in VR"
+    url: "http://zanytomato.tumblr.com/post/140725769440/the-fidelity-contract-in-vr"
+    author: "Kimberly Voll"
+    tags:
+      - Article
+  - title: "Design Practices in Virtual Reality"
+    url: "https://medium.com/@jonathanravasz/design-practices-in-virtual-reality-f900f5935826#.ucm8ltdiz"
+    author: "Jonathan Ravasz"
+    tags:
+      - Article
+  - title: "Social VR Solutions: How to design Social VR so it isn’t awful"
+    url: "http://suzanimator.com/2016/05/10/social-vr-solutions/"
+    author: "Suzanne Leibrick"
+    tags:
+      - Article
+  - title: "The Climb VR Menu"
+    url: "https://www.behance.net/gallery/36973013/The-Climb-VR-Menu"
+    author: "Riho Kroll"
+    tags:
+      - Article
+  # Slides
+  - title: "UX in VR: Designing For Virtual Reality"
+    url: "http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9"
+    author: "Laura Cortes & Cyriele Piancastelli"
+    tags:
+      - Slides
+  - title: "The rise of VR & AR era. Why this time is different?"
+    url: "http://www.slideshare.net/VRyzhonkov/the-rise-of-vr-ar-era-why-this-time-is-different"
+    author: "Vasily Ryzhonkov"
+    tags:
+      - Slides
+  # Books
+  - title: "3D User Interfaces: Theory and Practice"
+    url: "http://www.amazon.co.uk/gp/product/0201758679"
+    author: "Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola"
+    tags:
+      - Book
+  - title: "Learning Virtual Reality: Developing Immersive Experiences and Applications for Desktop, Web, and Mobile"
+    url: "http://www.amazon.co.uk/gp/product/1491922834"
+    author: "Tony Parisi"
+    tags:
+      - Book
+  - title: "Virtual Reality in Journalism"
+    url: "https://towcenter.gitbooks.io/virtual-reality-journalism/content/index.html"
+    author: "Raney Aronson-Rath, James Milward, Taylor Owen and Fergus Pitt"
+    tags:
+      - Book
+  - title: "Oculus Rift in Action"
+    url: "http://www.amazon.co.uk/gp/product/1617292192"
+    author: "Bradley Davis, Karen Bryla, Alex Benton"
+    tags:
+      - Book
+  - title: "Computers as Theatre"
+    url: "http://www.amazon.co.uk/gp/product/0321918622"
+    author: "Brenda Laurel"
+    tags:
+      - Book
+  # Code
+  - title: "VR Design Lab - Unity project"
+    url: "https://github.com/VRUX-CO/VRDesignLab"
+    author: "Open source VR design examples by VRUX.co"
+    tags:
+      - Code
+  - title: "Focal Point VR - Unity Demo Scenes"
+    url: "http://www.albert-hwang.com/focal-point-vr"
+    author: "An Open-Source VR Interaction Framework for the HTC Vive and Unity by Albert Hwang"
+    tags:
+      - Code
+  - title: "NewtonVR - Unity framework"
+    url: "http://www.newtonvr.com"
+    author: "A free, physics based, VR Interaction Framework for the HTC Vive and Unity by Tomorrow Today Labs"
+    tags:
+      - Code
+  - title: "A-Frame - Building blocks for the virtual reality web"
+    url: "https://aframe.io/"
+    author: "ThreeJS/WebGL/WebVR Framework. Use markup to create VR experiences that work across desktop, iOS, Android, and the Oculus Rift."
+    tags:
+      - Code
+
