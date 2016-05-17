@@ -125,3 +125,17 @@ article {
     transform: scale(1.05);
   }
 }
+
+footer {
+  padding: 4rem;
+  text-align: center;
+
+  p {
+    font-family: FuturaBoldRegular;
+    font-size: 1.5rem;
+
+    a {
+      color: $green;
+    }
+  }
+}
