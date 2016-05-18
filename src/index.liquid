@@ -55,19 +55,20 @@
             {% if resource.tags contains section.s %}
               <article>
                 <div class="inner">
-                  <h3>
-                    <a
-                      href="{{resource.url}}"
-                      target="_blank"
-                      {% if resource.url contains "youtube.com" %} data-lity{% endif %}
-                      {% if resource.url contains "medium.com" %} data-medium{% endif %}
-                    >
+                  <a
+                    href="{{resource.url}}"
+                    target="_blank"
+                    {% if resource.url contains "youtube.com" %} data-lity{% endif %}
+                    {% if resource.url contains "medium.com" %} data-medium{% endif %}
+                  >
+                    <h3>
                       {{resource.title}}
-                    </a>
-                  </h3>
+                    </h3>
+                  <em>{{resource.url}}</em>
                   {% if resource.author %}
                     <h4>{{resource.author}}</h4>
                   {% endif %}
+                  </a>
                   {% assign tags_size = resource.tags.size %}
                   {% if tags_size > 1 %}
                     <ul>
