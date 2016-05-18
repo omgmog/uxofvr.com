@@ -467,6 +467,11 @@ resources:
     author: "Brenda Laurel"
     tags:
       - Book
+  - title: "The VR Book: Human-Centered Design for Virtual Reality"
+    url: "http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?cPath=24&products_id=844"
+    author: "Jason Jerald"
+    tags:
+      - Book
   # Code
   - title: "VR Design Lab - Unity project"
     url: "https://github.com/VRUX-CO/VRDesignLab"
