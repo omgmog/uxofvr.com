@@ -5,9 +5,12 @@ subtitle: A curated list of resources to help you on your journey into the User 
 intro:
   - Many thanks to all of the authors of the talks, articles, and guides referenced in the list. Without these people doing the hard thinking, Virtual Reality wouldn't be where it is today.
   - If you would like to suggest a resource, you can do so by creating an issue on Github.
-github:
-  issue_url: "https://github.com/omgmog/uxofvr.com/issues/new"
-  button_text: "Suggest a resource"
+github_suggest:
+  url: "https://github.com/omgmog/uxofvr.com/issues/new"
+  text: "Suggest a resource"
+github_view:
+  url: "https://github.com/omgmog/uxofvr.com"
+  text: "View on Github"
 twitter:
   url_base: "https://twitter.com/intent/tweet?text="
   message: "Check out this awesome list of %23UX of %23VR resources %23VirtualReality %23UserExperience"

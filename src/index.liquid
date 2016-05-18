@@ -25,15 +25,22 @@
       <p>{{ para }}</p>
     {% endfor %}
     <a
-      href="{{ github.issue_url }}"
-      class="btn btn-github"
+      href="{{ github_suggest.url }}"
+      class="btn"
       target="_blank"
     >
-      {{ github.button_text }}
+      {{ github_suggest.text }}
+    </a>
+    <a
+      href="{{ github_view.url }}"
+      class="btn"
+      target="_blank"
+    >
+      {{ github_view.text }}
     </a>
     <a
       href="{{ twitter.url_base }}{{ twitter.message }}&amp;url=http://uxofvr.com/&amp;via=omgmog"
-      class="btn btn-twitter"
+      class="btn"
       target="_blank"
     >
       {{ twitter.button_text }}
