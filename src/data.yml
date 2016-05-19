@@ -154,6 +154,11 @@ resources:
     author: "VRDC 2016"
     tags:
       - Video
+  - title: "VR Design: Transitioning from a 2D to 3D Design Paradigm"
+    url: "https://www.youtube.com/watch?v=XjnHr_6WSqo"
+    author: "Alex Chu"
+    tags:
+      - Video
   # articles
   - title: "Designing for Google Cardboard"
     url: "https://www.google.com/design/spec-vr/designing-for-google-cardboard/"
