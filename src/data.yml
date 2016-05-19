@@ -498,4 +498,9 @@ resources:
     author: "ThreeJS/WebGL/WebVR Framework. Use markup to create VR experiences that work across desktop, iOS, Android, and the Oculus Rift."
     tags:
       - Code
+  - title: "WebVR Mockup boilerplate for VR Designers"
+    url: "https://medium.com/beloola-all-our-news-updates/web-mockups-for-vr-designers-cca2ba234b67#.ibl0gsegt"
+    author: "Vincent Munoz/Beloola"
+    tags:
+      - Code
 
