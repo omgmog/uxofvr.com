@@ -164,6 +164,11 @@ resources:
     author: "Google I/O 2016"
     tags:
       - Video
+  - title: "VR Design Process"
+    url: "https://www.youtube.com/watch?v=-mcXAMDch7s"
+    author: "Google I/O 2016"
+    tags:
+      - Video
   # articles
   - title: "Designing for Google Cardboard"
     url: "https://www.google.com/design/spec-vr/designing-for-google-cardboard/"
