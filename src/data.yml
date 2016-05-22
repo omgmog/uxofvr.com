@@ -445,6 +445,11 @@ resources:
     author: "Riho Kroll"
     tags:
       - Article
+  - title: "Virtual is Reality Again : Interface vs Interference Design 2014"
+    url: "https://medium.com/@LarryRosenthal/virtual-is-reality-again-interface-vs-interference-design-2014-6361e6f45b8c"
+    author: "Larry Rosenthal"
+    tags:
+      - Article
   # Slides
   - title: "UX in VR: Designing For Virtual Reality"
     url: "http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9"
