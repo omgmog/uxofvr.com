@@ -461,6 +461,11 @@ resources:
     author: "Vasily Ryzhonkov"
     tags:
       - Slides
+  - title: "Running User Tests for VR Games"
+    url: "http://www.slideshare.net/uxbri/steve-bromley-running-user-tests-for-vr-games"
+    author: "Steve Bromley"
+    tags:
+      - Slides
   # Books
   - title: "3D User Interfaces: Theory and Practice"
     url: "http://www.amazon.co.uk/gp/product/0201758679"
