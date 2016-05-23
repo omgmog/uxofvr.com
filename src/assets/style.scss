@@ -6,8 +6,6 @@ $green: #198226;
 $sand: #eaeadc;
 $white: darken(#fff, 2%);
 $black: lighten(#000, 2%);
-
-
 html {
   font-size: 14px;
   overflow-x: hidden;
@@ -34,23 +32,22 @@ h2 {
   font-size: 3rem;
   margin-bottom: 2rem;
 }
+
 h3 {
   font-size: 1.6rem;
 }
+
 h4 {
   font-size: 1.2rem;
   font-style: italic;
 }
 
-
 header {
   background-color: $green;
   background-image: url(texture.png);
-
   color: $white;
   padding: 2rem;
   position: relative;
-
   .inner {
     text-align: center;
     border: 8px double $white;
@@ -58,18 +55,15 @@ header {
     margin: auto;
     min-height: 50vh;
   }
-
   img {
     display: block;
     margin: 0 auto 2rem;
   }
-
   p {
     font-size: 1.8rem;
     max-width: 22em;
     margin: 0 auto;
   }
-
   &::after,
   &::before {
     z-index: -1;
@@ -91,6 +85,7 @@ header {
     transform: rotate(-.5deg) translateX(-2%);
   }
 }
+
 .btn {
   background-color: $green;
   font-family: FuturaBoldRegular;
@@ -98,14 +93,15 @@ header {
   display: inline-block;
   padding: .5em 1em;
   margin-bottom: .25em;
+  margin-right: .25em;
   color: $white;
 }
+
 section {
   max-width: 960px;
   width: 100%;
   margin: 0 auto;
   padding: 4rem;
-
   &.intro {
     p {
       margin: 0 0 1.3rem;
@@ -114,17 +110,19 @@ section {
     }
   }
 }
+.buttons {
+  text-align: center;
+  margin: 2rem auto;
+}
 
 article {
   margin-bottom: $gutter;
   border-left: 1rem solid $green;
   padding-left: 1rem;
   transition: transform .1s ease-in;
-
   &:hover {
     transform: scale(1.05);
   }
-
   em {
     color: rgba($black, .8);
     font-style: italic;
@@ -135,11 +133,9 @@ article {
 footer {
   padding: 4rem;
   text-align: center;
-
   p {
     font-family: FuturaBoldRegular;
     font-size: 1.5rem;
-
     a {
       color: $green;
     }

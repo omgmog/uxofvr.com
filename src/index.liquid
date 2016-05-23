@@ -1,3 +1,28 @@
+{% capture buttons %}
+<div class="buttons">
+  <a
+    href="{{ github_suggest.url }}"
+    class="btn"
+    target="_blank"
+  >
+    {{ github_suggest.text }}
+  </a>
+  <a
+    href="{{ github_view.url }}"
+    class="btn"
+    target="_blank"
+  >
+    {{ github_view.text }}
+  </a>
+  <a
+    href="{{ twitter.url_base }}{{ twitter.message }}&amp;url=http://uxofvr.com/&amp;via=omgmog"
+    class="btn"
+    target="_blank"
+  >
+    {{ twitter.button_text }}
+  </a>
+</div>
+{% endcapture %}
 <!DOCTYPE html>
 <html>
 <head>
@@ -52,27 +77,8 @@
     {% for para in intro %}
       <p>{{ para }}</p>
     {% endfor %}
-    <a
-      href="{{ github_suggest.url }}"
-      class="btn"
-      target="_blank"
-    >
-      {{ github_suggest.text }}
-    </a>
-    <a
-      href="{{ github_view.url }}"
-      class="btn"
-      target="_blank"
-    >
-      {{ github_view.text }}
-    </a>
-    <a
-      href="{{ twitter.url_base }}{{ twitter.message }}&amp;url=http://uxofvr.com/&amp;via=omgmog"
-      class="btn"
-      target="_blank"
-    >
-      {{ twitter.button_text }}
-    </a>
+
+    {{ buttons }}
     </section>
 
     {% for section in sections %}
@@ -114,7 +120,8 @@
       </section>
     {% endfor %}
     <footer>
-      <p>Built with love by <a href="https://omgmog.net">Max Glenister</a> (<a href="https://twitter.com/omgmog">@omgmog</a>) </p>
+      {{ buttons }}
+      <p>Curated &amp; built with love by <a href="https://omgmog.net">Max Glenister</a> (<a href="https://twitter.com/omgmog">@omgmog</a>) </p>
     </footer>
   </main>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.slim.min.js"></script>
