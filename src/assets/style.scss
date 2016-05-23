@@ -48,6 +48,7 @@ header {
   color: $white;
   padding: 2rem;
   position: relative;
+
   .inner {
     text-align: center;
     border: 8px double $white;
@@ -98,10 +99,11 @@ header {
 }
 
 section {
-  max-width: 960px;
-  width: 100%;
+  max-width: 100%;
+  width: 960px;
   margin: 0 auto;
   padding: 4rem;
+
   &.intro {
     p {
       margin: 0 0 1.3rem;
@@ -110,6 +112,7 @@ section {
     }
   }
 }
+
 .buttons {
   text-align: center;
   margin: 2rem auto;
@@ -120,6 +123,7 @@ article {
   border-left: 1rem solid $green;
   padding-left: 1rem;
   transition: transform .1s ease-in;
+
   &:hover {
     transform: scale(1.05);
   }
@@ -139,5 +143,37 @@ footer {
     a {
       color: $green;
     }
+  }
+}
+
+@media screen and (max-width: 700px) {
+  header {
+    padding: 0;
+    width: 100%;
+
+    .inner {
+      border: 0;
+      margin: 0;
+    }
+
+    &::after,
+    &::before {
+      display: none;
+    }
+
+    h1 {
+      font-size: 3rem;
+    }
+  }
+  section {
+    padding: 1rem;
+  }
+  article {
+    overflow: hidden;
+    max-width: 100%;
+  }
+  .btn {
+    width: 100%;
+    margin-right: 0;
   }
 }
