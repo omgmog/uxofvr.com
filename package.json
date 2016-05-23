@@ -18,6 +18,7 @@
   "dependencies": {
     "fs": "0.0.2",
     "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.7",
     "gulp-ext-replace": "^0.3.0",
     "gulp-gh-pages": "^0.5.4",
     "gulp-liquid": "^0.1.0",

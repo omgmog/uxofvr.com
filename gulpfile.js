@@ -5,6 +5,7 @@ var replaceExtension = require('gulp-ext-replace');
 var sass = require('gulp-sass');
 var yaml = require('js-yaml');
 var fs = require('fs');
+var cleanCSS = require('gulp-clean-css');
 
 var paths = {
   dist: './dist/',
@@ -12,7 +13,7 @@ var paths = {
   src: './src/',
   allSrc: './src/**/*',
   liquidSrc: './src/*.liquid',
-  sassSrc: './src/*.scss',
+  sassSrc: './src/assets/*.scss',
   ymlSrc: './src/data.yml'
 };
 
@@ -29,26 +30,28 @@ gulp.task('build:html', function () {
 
 gulp.task('build:other', function () {
   return gulp.src([
-    paths.src + 'CNAME',
-    paths.src + '*.png',
-    paths.src + '*.jpg',
-    paths.src + '*.js',
-    paths.src + 'fonts/*.eot',
-    paths.src + 'fonts/*.svg',
-    paths.src + 'fonts/*.woff',
-    paths.src + 'fonts/*.ttf'
+    paths.src + 'CNAME'
   ])
     .pipe(gulp.dest(paths.dist));
+});
+
+gulp.task('build:assets', function () {
+  return gulp.src([
+    paths.src + 'assets/**/*.*',
+    '!' + paths.src + 'assets/**/*.scss'
+  ])
+    .pipe(gulp.dest(paths.dist + 'assets/'));
 });
 
 gulp.task('build:styles', function () {
   return gulp.src(paths.sassSrc)
     .pipe(sass())
     .pipe(replaceExtension('.css'))
-    .pipe(gulp.dest(paths.dist));
+    .pipe(cleanCSS({compatibility: 'ie8'}))
+    .pipe(gulp.dest(paths.dist + 'assets/'));
 });
 
-gulp.task('build', ['build:html', 'build:other', 'build:styles']);
+gulp.task('build', ['build:html', 'build:assets', 'build:other', 'build:styles']);
 
 gulp.task('watch', ['build'], function () {
   gulp.watch(paths.allSrc, ['build']);
