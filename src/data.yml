@@ -382,12 +382,12 @@ resources:
       - Article
   - title: "Buttons in Virtual Reality - A UI/UX Design Approach"
     url: "http://realityshift.io/blog/buttons-in-virtual-reality-a-ui-ux-design-approach"
-    author: "Torsten Sandor"
+    author: "Reality Shift"
     tags:
       - Article
   - title: "A UX Designers Guide to Combat VR Sickness"
     url: "http://realityshift.io/blog/a-ux-designers-guide-to-combat-vr-sickness"
-    author: "Torsten Sandor"
+    author: "Reality Shift"
     tags:
       - Article
   - title: "You’re the center of the universe: A UX guide to designing virtual reality experiences"
@@ -448,6 +448,11 @@ resources:
   - title: "Virtual is Reality Again : Interface vs Interference Design 2014"
     url: "https://medium.com/@LarryRosenthal/virtual-is-reality-again-interface-vs-interference-design-2014-6361e6f45b8c"
     author: "Larry Rosenthal"
+    tags:
+      - Article
+  - title: "UI / UX design patterns in virtual reality"
+    url: "http://realityshift.io/blog/ui-ux-design-patterns-in-virtual-reality"
+    author: "Reality Shift"
     tags:
       - Article
   # Slides
