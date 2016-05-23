@@ -6,6 +6,7 @@ var sass = require('gulp-sass');
 var yaml = require('js-yaml');
 var fs = require('fs');
 var cleanCSS = require('gulp-clean-css');
+var htmlmin = require('gulp-htmlmin');
 
 var paths = {
   dist: './dist/',
@@ -25,6 +26,7 @@ gulp.task('build:html', function () {
       locals: yamlData
     }))
     .pipe(replaceExtension('.html'))
+    .pipe(htmlmin({collapseWhitespace: true}))
     .pipe(gulp.dest(paths.dist));
 });
 
