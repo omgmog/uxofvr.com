@@ -169,6 +169,11 @@ resources:
     author: "Google I/O 2016"
     tags:
       - Video
+  - title: "Going VR: The Future of UI Technology"
+    url: "https://www.youtube.com/watch?v=D7plTOgTV-M"
+    author: "Jerome Lacote"
+    tags:
+      - Video
   # articles
   - title: "Designing for Google Cardboard"
     url: "https://www.google.com/design/spec-vr/designing-for-google-cardboard/"
