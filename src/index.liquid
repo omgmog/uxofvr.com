@@ -37,14 +37,14 @@
   <!-- opengraph -->
   <meta property="og:title" content="{{ title_full }}"/>
   <meta property="og:type" content="article"/>
-  <meta property="og:url" content="http://www.uxofvr.com/"/>
-  <meta property="og:image" content="/assets/uxvrlogo.png"/>
+  <meta property="og:url" content="{{ baseurl }}"/>
+  <meta property="og:image" content="{{ baseurl }}/assets/uxvrlogo.png"/>
   <!-- twitter -->
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@omgmog" />
   <meta name="twitter:title" content="{{ title_full }}" />
   <meta name="twitter:description" content="{{ subtitle }}" />
-  <meta name="twitter:image" content="/assets/uxvrlogo.png" />
+  <meta name="twitter:image" content="{{ baseurl }}/assets/uxvrlogo.png" />
 
   <!-- everything else -->
   <link rel="apple-touch-icon" sizes="57x57" href="/assets/apple-touch-icon-57x57.png">
@@ -69,6 +69,7 @@
   <meta name="msapplication-config" content="/assets/browserconfig.xml">
   <meta name="theme-color" content="#198226">
   <link rel="stylesheet" href="/assets/style.css">
+  <link rel="canonical" href="{{ baseurl }}" />
 </head>
 <body>
   <main>
