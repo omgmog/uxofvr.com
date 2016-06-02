@@ -180,6 +180,11 @@ resources:
     author: "Google I/O 2016"
     tags:
       - Video
+  - title: "Turn on, Tune in, Drop out: The Virtual is Real."
+    url: "https://www.youtube.com/watch?v=3w4ofjGmQow"
+    author: "Howard Goldkrand"
+    tags:
+      - Video
   # articles
   - title: "Designing for Google Cardboard"
     url: "https://www.google.com/design/spec-vr/designing-for-google-cardboard/"
