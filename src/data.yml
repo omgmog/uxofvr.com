@@ -544,4 +544,9 @@ resources:
     author: "Vincent Munoz/Beloola"
     tags:
       - Code
+  - title: "Tools of the Trade: Applications for AR/VR Design"
+    url: "http://designation.io/blog/tools-of-the-trade-applications-for-arvr-design/"
+    author: "Aaron Faucher"
+    tags:
+      - Code
 
