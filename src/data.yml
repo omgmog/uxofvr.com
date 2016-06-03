@@ -471,6 +471,12 @@ resources:
     author: "Reality Shift"
     tags:
       - Article
+  - title: "AR / VR Teleportation Concepts"
+    url: "http://www.albert-hwang.com/blog/2016/5/ar-teleportation-concepts"
+    author: "Albert Hwang"
+    tags:
+      - Article
+      - Slides
   # Slides
   - title: "UX in VR: Designing For Virtual Reality"
     url: "http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9"
