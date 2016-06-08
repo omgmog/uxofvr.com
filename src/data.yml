@@ -482,6 +482,18 @@ resources:
     author: "Sam Applebee"
     tags:
       - Article
+  - title: "Hand Tracked Controls in VR - The Basics"
+    url: "http://blog.mattnewport.com/hand-tracked-controls-in-vr-the-basics/"
+    author: "Matt Newport"
+    tags:
+      - Article
+      - Video
+  - title: "Hand Tracked Controls in VR - Throwing"
+    url: "http://blog.mattnewport.com/hand-tracked-controls-in-vr-throwing/"
+    author: "Matt Newport"
+    tags:
+      - Article
+      - Video
   # Slides
   - title: "UX in VR: Designing For Virtual Reality"
     url: "http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9"
