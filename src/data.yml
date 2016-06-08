@@ -477,6 +477,11 @@ resources:
     tags:
       - Article
       - Slides
+  - title: "Beyond Reality: First steps into the unknown"
+    url: "https://medium.com/kickpush-design/beyond-reality-first-steps-into-the-unknown-cbb19f039e51"
+    author: "Sam Applebee"
+    tags:
+      - Article
   # Slides
   - title: "UX in VR: Designing For Virtual Reality"
     url: "http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9"
