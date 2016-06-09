@@ -510,6 +510,11 @@ resources:
     author: "Steve Bromley"
     tags:
       - Slides
+  - title: "Lessons learned porting Team Fortress 2 to Virtual Reality"
+    url: "http://media.steampowered.com/apps/valve/2013/Team_Fortress_in_VR_GDC.pdf"
+    author: "Joe Ludwig"
+    tags:
+      - Slides
   # Books
   - title: "3D User Interfaces: Theory and Practice"
     url: "http://www.amazon.co.uk/gp/product/0201758679"
