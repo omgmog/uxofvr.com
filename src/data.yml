@@ -494,6 +494,11 @@ resources:
     tags:
       - Article
       - Video
+  - title: "Design Insights for Virtual Reality UX"
+    url: "https://medium.com/@Punchcut/design-insights-for-virtual-reality-ux-7ae41a0c5a1a"
+    author: "Punchcut"
+    tags:
+      - Article
   # Slides
   - title: "UX in VR: Designing For Virtual Reality"
     url: "http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9"
