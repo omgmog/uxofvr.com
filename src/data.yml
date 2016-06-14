@@ -5,10 +5,9 @@ subtitle: A curated list of resources to help you on your journey into the User 
 baseurl: "http://www.uxofvr.com"
 intro:
   - Many thanks to all of the authors of the talks, articles, and guides referenced in the list. Without these people doing the hard thinking, Virtual Reality wouldn't be where it is today.
-  - If you would like to suggest a resource, you can do so by creating an issue on Github.
 github_suggest:
   url: "https://github.com/omgmog/uxofvr.com/issues/new"
-  text: "Suggest a resource"
+  text: "Suggest something"
 github_view:
   url: "https://github.com/omgmog/uxofvr.com"
   text: "View on Github"

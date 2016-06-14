@@ -72,35 +72,45 @@
   <link rel="canonical" href="{{ baseurl }}" />
 </head>
 <body>
-  <main>
-    <header>
-      <div class="inner">
-        <img src="/assets/logo.png" alt="">
-        <h1>
-          {{ title_short }}
-        </h1>
-        <p>
-          {{ subtitle }}
-        </p>
-      </div>
-    </header>
+  <aside id="top">
+    <div class="inner">
+      <img
+        src="/assets/cardboard.svg"
+        class="logo"
+      >
+      <h1>
+        {{ title_short }}
+      </h1>
+      <p>
+        {{ subtitle }}
+      </p>
+      {% for para in intro %}
+        <p>{{ para }}</p>
+      {% endfor %}
 
-    <section class="intro">
-    {% for para in intro %}
-      <p>{{ para }}</p>
-    {% endfor %}
-
-    {{ buttons }}
-    </section>
-
+      {{ buttons }}
+      <p class="signoff">Curated &amp; built with love by<br>
+      <a href="https://omgmog.net">Max Glenister</a> (<a href="https://twitter.com/omgmog">@omgmog</a>)</p>
+    </div>
+  </aside>
+  <nav>
+    <div class="tab about">
+      <a href="#top">About</a>
+    </div>
     {% for section in sections %}
-      <section id="{{section._}}">
-        <h2>{{section.p}}</h2>
-        <div class="inner">
-          {% for resource in resources %}
-            {% if resource.tags contains section.s %}
-              <article>
-                <div class="inner">
+      <div class="tab">
+        <a href="#{{ section._}}">{{ section.p }}</a>
+      </div>
+    {% endfor %}
+  </nav>
+  <main>
+    <div class="inner">
+      {% for section in sections %}
+        <section id="{{section._}}">
+          <h2>{{section.p}}</h2>
+            {% for resource in resources %}
+              {% if resource.tags contains section.s %}
+                <article>
                   <a
                     href="{{resource.url}}"
                     target="_blank"
@@ -109,32 +119,17 @@
                     <h3>
                       {{resource.title}}
                     </h3>
-                  <em>{{resource.url}}</em>
-                  {% if resource.author %}
-                    <h4>{{resource.author}}</h4>
-                  {% endif %}
+                    <em>{{resource.url}}</em>
+                    {% if resource.author %}
+                      <h4>{{resource.author}}</h4>
+                    {% endif %}
                   </a>
-                  {% assign tags_size = resource.tags.size %}
-                  {% if tags_size > 1 %}
-                    <ul>
-                    {% for tag in resource.tags %}
-                      {% if tag != section.s %}
-                        <li>{{tag}}</li>
-                      {% endif %}
-                    {% endfor %}
-                    </ul>
-                  {% endif %}
-                </div>
-              </article>
-            {% endif %}
-          {% endfor %}
-        </div>
-      </section>
-    {% endfor %}
-    <footer>
-      {{ buttons }}
-      <p>Curated &amp; built with love by <a href="https://omgmog.net">Max Glenister</a> (<a href="https://twitter.com/omgmog">@omgmog</a>) </p>
-    </footer>
+                </article>
+              {% endif %}
+            {% endfor %}
+        </section>
+      {% endfor %}
+    </div>
   </main>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.slim.min.js"></script>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lity/1.6.6/lity.min.js"></script>

@@ -1,179 +1,209 @@
 @import "app-reset";
 @import "fonts/futura";
-$col: 360px;
-$gutter: 20px;
 $green: #198226;
-$sand: #eaeadc;
 $white: darken(#fff, 2%);
 $black: lighten(#000, 2%);
+
 html {
-  font-size: 14px;
   overflow-x: hidden;
+  font-size: 16px;
+  font-family: helvetica neue, helvetica, arial, sans-serif;
+  line-height: 1.2;
+  background-color: $white;
 }
-
-body {
-  background-color: $sand;
-  color: $black;
-}
-
-h1,
-h2,
-h3 {
+h1, h2, h3 {
   font-family: FuturaBoldRegular, helvetica neue, helvetica, arial, sans-serif;
 }
-
-h1 {
-  font-size: 4rem;
-  max-width: 11em;
-  margin: 0 auto 2rem;
+h1, h2, p {
+  margin-bottom: 1rem;
 }
-
+h1 {
+  font-size: 2rem;
+}
 h2 {
   font-size: 3rem;
-  margin-bottom: 2rem;
+  color: $green;
+  text-transform: uppercase;
+  letter-spacing: .0125em;
 }
-
 h3 {
-  font-size: 1.6rem;
+  margin-bottom: .5rem;
 }
-
 h4 {
-  font-size: 1.2rem;
-  font-style: italic;
+  font-size: .8rem;
 }
 
-header {
-  background-color: $green;
-  background-image: url(texture.png);
-  color: $white;
+.inner {
   padding: 2rem;
-  position: relative;
+}
+aside {
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  height: 100vh;
+  width: 30%;
+  background: $green;
+  text-align: center;
+
 
   .inner {
-    text-align: center;
-    border: 8px double $white;
-    padding: 2rem;
-    margin: auto;
-    min-height: 50vh;
+    color: $white;
+    margin-right: 2rem;
   }
-  img {
-    display: block;
+  .logo {
+    width: 256px;
+    max-width: 100%;
+    height: auto;
     margin: 0 auto 2rem;
   }
-  p {
-    font-size: 1.8rem;
-    max-width: 22em;
-    margin: 0 auto;
-  }
-  &::after,
-  &::before {
-    z-index: -1;
-    content: '';
-    width: 100%;
-    height: 1rem;
-    display: block;
-    position: absolute;
-    bottom: .25rem;
-    background-color: rgba(#000, .4);
-    box-shadow: 0 0 2rem rgba(#000, .4);
-  }
-  &::after {
-    right: 0;
-    transform: rotate(.5deg) translateX(2%);
-  }
-  &::before {
-    left: 0;
-    transform: rotate(-.5deg) translateX(-2%);
-  }
-}
-
-.btn {
-  background-color: $green;
-  font-family: FuturaBoldRegular;
-  font-size: 20px;
-  display: inline-block;
-  padding: .5em 1em;
-  margin-bottom: .25em;
-  margin-right: .25em;
-  color: $white;
-}
-
-section {
-  max-width: 100%;
-  width: 960px;
-  margin: 0 auto;
-  padding: 4rem;
-
-  &.intro {
-    p {
-      margin: 0 0 1.3rem;
-      line-height: 1.2;
-      font-size: 1.4rem;
-    }
-  }
-}
-
-.buttons {
-  text-align: center;
-  margin: 2rem auto;
-}
-
-article {
-  margin-bottom: $gutter;
-  border-left: 1rem solid $green;
-  padding-left: 1rem;
-  transition: transform .1s ease-in;
-
-  &:hover {
-    transform: scale(1.05);
-  }
-  em {
-    color: rgba($black, .8);
-    font-style: italic;
-    font-size: 1rem;
-  }
-}
-
-footer {
-  padding: 4rem;
-  text-align: center;
-  p {
-    font-family: FuturaBoldRegular;
-    font-size: 1.5rem;
-    a {
-      color: $green;
-    }
-  }
-}
-
-@media screen and (max-width: 700px) {
-  header {
-    padding: 0;
-    width: 100%;
-
-    .inner {
-      border: 0;
-      margin: 0;
-    }
-
-    &::after,
-    &::before {
-      display: none;
-    }
-
-    h1 {
-      font-size: 3rem;
-    }
-  }
-  section {
-    padding: 1rem;
-  }
-  article {
-    overflow: hidden;
-    max-width: 100%;
+  .buttons {
+    display: flex;
+    margin-bottom: 1rem;
   }
   .btn {
+    background: $white;
+    color: $green;
+    display: inline-block;
+    padding: .5em 1em;
+    margin: 0 .25em .25em 0;
+    border: 2px transparent solid;
+    width: 33%;
+    text-align: center;
+
+
+    &:hover {
+      background-color: $green;
+      border-color: $white;
+      color: $white;
+    }
+  }
+  .signoff {
+    margin-bottom: 0;
+
+    a {
+      text-decoration: underline;
+      font-weight: bold;
+
+    }
+  }
+}
+main {
+  margin-left: 30%;
+
+  > .inner {
+    padding-top: 0;
+  }
+}
+section {
+  margin-bottom: 2rem;
+  padding-top: 2rem;
+}
+article {
+  margin-bottom: 1rem;
+
+  a {
+    display: block;
+    border-left: .5rem solid $green;
+    padding-left: 1rem;
+    color: $black;
+    transition: transform .2s ease;
+
+    h3 {
+      color: $green;
+    }
+    em {
+      display: block;
+      font-size: .8rem;
+      color: lighten($black, 20%);
+      margin-bottom: .5rem;
+    }
+
+    &:visited {
+      border-left-color: $black;
+
+      h3 {
+        color: $black;
+      }
+    }
+    &:hover,
+    &:focus {
+      transform: scale(1.02);
+    }
+  }
+}
+nav {
+  position: fixed;
+  left: 30%;
+  height: 2rem;
+  transform: rotate(90deg) translateY(2rem);
+  transform-origin: 0 100%;
+  top: 0;
+  text-align: center;
+
+  .tab {
+    display: inline-block;
+    line-height: 2rem;
+    padding: 0 1em;
+    color: $white;
+    background: $green;
+    text-transform: uppercase;
+    font-size: 1.2rem;
+
+    &:hover {
+      color: $green;
+      background: $white;
+    }
+  }
+  .about {
+    display: none;
+
+  }
+}
+@media screen and (max-width: 1200px) {
+  aside {
+    .buttons {
+      display: block;
+      .btn {
+        width: 100%;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  aside {
+    position: static;
     width: 100%;
-    margin-right: 0;
+    height: auto;
+
+    > .inner {
+      margin-right: 0;
+    }
+    .btn {
+      max-width: 32%;
+    }
+  }
+  nav {
+    display: none;
+  }
+  main {
+    margin: 0;
+    max-width: 100%;
+    overflow: hidden;
+  }
+  h2 {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  aside {
+    .inner {
+      padding: 1rem;
+    }
+    .btn {
+      max-width: 100%;
+    }
   }
 }
