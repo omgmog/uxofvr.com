@@ -185,6 +185,11 @@ resources:
     author: "Howard Goldkrand"
     tags:
       - Video
+  - title: "Let's Go Cyberspace - Virtual Reality UX"
+    url: "https://www.youtube.com/watch?v=VFJYkfQdLmU"
+    author: "Timoni West"
+    tags:
+      - Video
   # articles
   - title: "Designing for Google Cardboard"
     url: "https://www.google.com/design/spec-vr/designing-for-google-cardboard/"
