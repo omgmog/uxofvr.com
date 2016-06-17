@@ -189,6 +189,11 @@ resources:
     author: "Timoni West"
     tags:
       - Video
+  - title: "Locomotion in VR: Overview of different locomotion methods on HTC Vive"
+    url: "https://www.youtube.com/watch?v=p0YxzgQG2-E"
+    author: "Bumble"
+    tags:
+      - Video
   # articles
   - title: "Designing for Google Cardboard"
     url: "https://www.google.com/design/spec-vr/designing-for-google-cardboard/"
