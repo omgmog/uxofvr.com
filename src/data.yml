@@ -508,6 +508,11 @@ resources:
     author: "Punchcut"
     tags:
       - Article
+  - title: "Goodbye Metaphors, Hello World— Interface Design in Virtual Reality"
+    url: "https://medium.com/yvr/goodbye-metaphors-hello-world-interface-design-in-virtual-reality-d2462e52a029"
+    author: "Austin McCasland"
+    tags:
+      - Article
   # Slides
   - title: "UX in VR: Designing For Virtual Reality"
     url: "http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9"
