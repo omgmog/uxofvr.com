@@ -513,6 +513,11 @@ resources:
     author: "Austin McCasland"
     tags:
       - Article
+  - title: "Motion, focus, control… Exploring the UX of Virtual Reality"
+    url: "https://xwerx.com/blog/motion-focus-control-exploring-ux-virtual-reality/"
+    author: "Flavien Plouzennec"
+    tags:
+      - Article
   # Slides
   - title: "UX in VR: Designing For Virtual Reality"
     url: "http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9"
