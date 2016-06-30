@@ -539,6 +539,11 @@ resources:
     author: "Joe Ludwig"
     tags:
       - Slides
+  - title: "Virtual Reality Human Interface Guidelines"
+    url: "http://vrhig.com/"
+    author: "Brett Red"
+    tags:
+      - Slides
   # Books
   - title: "3D User Interfaces: Theory and Practice"
     url: "http://www.amazon.co.uk/gp/product/0201758679"
