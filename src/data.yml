@@ -518,6 +518,11 @@ resources:
     author: "Flavien Plouzennec"
     tags:
       - Article
+  - title: "Virtual Reality Development Tips"
+    url: "http://www.doolwind.com/blog/virtual-reality-development-tips/"
+    author: "Alistair Doulin"
+    tags:
+      - Article
   # Slides
   - title: "UX in VR: Designing For Virtual Reality"
     url: "http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9"
