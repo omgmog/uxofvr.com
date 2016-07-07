@@ -194,6 +194,11 @@ resources:
     author: "Bumble"
     tags:
       - Video
+  - title: "The current state of UX and VR"
+    url: "https://www.youtube.com/watch?v=wZQB1705inM"
+    author: "Thomas Gläser (CoSpaces)"
+    tags:
+      - Video
   # articles
   - title: "Designing for Google Cardboard"
     url: "https://www.google.com/design/spec-vr/designing-for-google-cardboard/"
