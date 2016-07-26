@@ -528,6 +528,11 @@ resources:
     author: "Alistair Doulin"
     tags:
       - Article
+  - title: "Exploring Methods for Conveying Object Weight in Virtual Reality"
+    url: "http://www.roadtovr.com/b-reel-simulating-object-weight-mass-virtual-reality-motion-controllers/"
+    author: "Ben Lang"
+    tags:
+      - Article
   # Slides
   - title: "UX in VR: Designing For Virtual Reality"
     url: "http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9"
