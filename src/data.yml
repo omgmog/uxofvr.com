@@ -621,4 +621,9 @@ resources:
     author: "Aaron Faucher"
     tags:
       - Code
+  - title: "SteamVR Unity Toolkit"
+    url: "https://github.com/thestonefox/SteamVR_Unity_Toolkit"
+    author: "A collection of useful scripts and prefabs for building SteamVR titles in Unity 5."
+    tags:
+      - Code
 
