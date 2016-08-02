@@ -199,6 +199,11 @@ resources:
     author: "Thomas Gläser (CoSpaces)"
     tags:
       - Video
+  - title: "Cognitive Psychology of Virtual Reality Basics, Problems and Tips"
+    url: "https://www.youtube.com/watch?v=81f_QHRxQOs"
+    author: "Thomas Bedenk"
+    tags:
+      - Video
   # articles
   - title: "Designing for Google Cardboard"
     url: "https://www.google.com/design/spec-vr/designing-for-google-cardboard/"
