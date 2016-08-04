@@ -204,6 +204,11 @@ resources:
     author: "Thomas Bedenk"
     tags:
       - Video
+  - title: "HTC Vive and Oculus Rift Hardware Requirements Explained"
+    url: "https://www.youtube.com/watch?v=BbY_GtaloaQ"
+    author: "Logical Increments"
+    tags:
+      - Video
   # articles
   - title: "Designing for Google Cardboard"
     url: "https://www.google.com/design/spec-vr/designing-for-google-cardboard/"
