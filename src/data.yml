@@ -646,4 +646,9 @@ resources:
     author: "A collection of useful scripts and prefabs for building SteamVR titles in Unity 5."
     tags:
       - Code
+  - title: "Game accessibility guidelines"
+    url: "http://gameaccessibilityguidelines.com/"
+    author: "A straightforward reference for inclusive game design"
+    tags:
+      - Code
 
