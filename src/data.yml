@@ -605,6 +605,11 @@ resources:
     author: "Jason Jerald"
     tags:
       - Book
+  - title: "VR UX: Learn VR UX, Storytelling & Design"
+    url: "http://www.amazon.co.uk/gp/product/1533273022"
+    author: "Casey Fictum"
+    tags:
+      - Book
   # Code
   - title: "VR Design Lab - Unity project"
     url: "https://github.com/VRUX-CO/VRDesignLab"
