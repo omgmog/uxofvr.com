@@ -543,6 +543,11 @@ resources:
     author: "Ben Lang"
     tags:
       - Article
+  - title: "Don’t teleport. Fly!: How to do it in VR without motion sickness"
+    url: "https://medium.com/yvr/dont-teleport-fly-b175a5c8fd73#.nx9b0gukm"
+    author: "Andre Le"
+    tags:
+      - Article
   # Slides
   - title: "UX in VR: Designing For Virtual Reality"
     url: "http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9"
