@@ -209,6 +209,11 @@ resources:
     author: "Logical Increments"
     tags:
       - Video
+  - title: "Shapeshifter: humuncular flexibility in virtual reality"
+    url: "https://vimeo.com/178716591"
+    author: "Harry Brenton"
+    tags:
+      - Video
   # articles
   - title: "Designing for Google Cardboard"
     url: "https://www.google.com/design/spec-vr/designing-for-google-cardboard/"
