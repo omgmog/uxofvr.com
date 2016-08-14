@@ -115,6 +115,7 @@
                     href="{{resource.url}}"
                     target="_blank"
                     {% if resource.url contains "youtube.com" %} data-lity{% endif %}
+                    {% if resource.url contains "vimeo.com" %} data-lity{% endif %}
                   >
                     <h3>
                       {{resource.title}}
