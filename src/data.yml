@@ -505,7 +505,6 @@ resources:
     author: "Albert Hwang"
     tags:
       - Article
-      - Slides
   - title: "Beyond Reality: First steps into the unknown"
     url: "https://medium.com/kickpush-design/beyond-reality-first-steps-into-the-unknown-cbb19f039e51"
     author: "Sam Applebee"
@@ -516,13 +515,11 @@ resources:
     author: "Matt Newport"
     tags:
       - Article
-      - Video
   - title: "Hand Tracked Controls in VR - Throwing"
     url: "http://blog.mattnewport.com/hand-tracked-controls-in-vr-throwing/"
     author: "Matt Newport"
     tags:
       - Article
-      - Video
   - title: "Design Insights for Virtual Reality UX"
     url: "https://medium.com/@Punchcut/design-insights-for-virtual-reality-ux-7ae41a0c5a1a"
     author: "Punchcut"
