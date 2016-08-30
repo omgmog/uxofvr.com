@@ -656,4 +656,9 @@ resources:
     author: "A straightforward reference for inclusive game design"
     tags:
       - Other
+  - title: "3 Steps Towards Designing for AR/VR"
+    url: "http://blog.proto.io/3-steps-towards-designing-arvr/"
+    author: ""
+    tags:
+      - Other
 
