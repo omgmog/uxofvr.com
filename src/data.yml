@@ -28,9 +28,9 @@ sections:
   - s: Book
     p: Books
     _: book
-  - s: Code
-    p: Code
-    _: code
+  - s: Other
+    p: Other
+    _: other
 
 resources:
   # videos
@@ -610,45 +610,45 @@ resources:
     author: "Casey Fictum"
     tags:
       - Book
-  # Code
+  # Other
   - title: "VR Design Lab - Unity project"
     url: "https://github.com/VRUX-CO/VRDesignLab"
     author: "Open source VR design examples by VRUX.co"
     tags:
-      - Code
+      - Other
   - title: "Focal Point VR - Unity Demo Scenes"
     url: "http://www.albert-hwang.com/focal-point-vr"
     author: "An Open-Source VR Interaction Framework for the HTC Vive and Unity by Albert Hwang"
     tags:
-      - Code
+      - Other
   - title: "NewtonVR - Unity framework"
     url: "http://www.newtonvr.com"
     author: "A free, physics based, VR Interaction Framework for the HTC Vive and Unity by Tomorrow Today Labs"
     tags:
-      - Code
+      - Other
   - title: "A-Frame - Building blocks for the virtual reality web"
     url: "https://aframe.io/"
     author: "ThreeJS/WebGL/WebVR Framework. Use markup to create VR experiences that work across desktop, iOS, Android, and the Oculus Rift."
     tags:
-      - Code
+      - Other
   - title: "WebVR Mockup boilerplate for VR Designers"
     url: "https://medium.com/beloola-all-our-news-updates/web-mockups-for-vr-designers-cca2ba234b67#.ibl0gsegt"
     author: "Vincent Munoz/Beloola"
     tags:
-      - Code
+      - Other
   - title: "Tools of the Trade: Applications for AR/VR Design"
     url: "http://designation.io/blog/tools-of-the-trade-applications-for-arvr-design/"
     author: "Aaron Faucher"
     tags:
-      - Code
+      - Other
   - title: "SteamVR Unity Toolkit"
     url: "https://github.com/thestonefox/SteamVR_Unity_Toolkit"
     author: "A collection of useful scripts and prefabs for building SteamVR titles in Unity 5."
     tags:
-      - Code
+      - Other
   - title: "Game accessibility guidelines"
     url: "http://gameaccessibilityguidelines.com/"
     author: "A straightforward reference for inclusive game design"
     tags:
-      - Code
+      - Other
 
