@@ -553,6 +553,16 @@ resources:
     author: "Andre Le"
     tags:
       - Article
+  - title: "Your brain on virtual reality: The psychology of virtual reality"
+    url: "http://formforthought.com/psychology-of-virtual-reality-vr-design/"
+    author: "Lauren Kelly"
+    tags:
+      - Article
+  - title: "Being a superhero in VR makes you a better person"
+    url: "http://formforthought.com/psychology-positive-effects-of-virtual-reality-vr-behaviour/"
+    author: "Lauren Kelly"
+    tags:
+      - Article
   # Slides
   - title: "UX in VR: Designing For Virtual Reality"
     url: "http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9"
