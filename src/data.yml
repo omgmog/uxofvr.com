@@ -570,6 +570,11 @@ resources:
     author: "Lauren Kelly"
     tags:
       - Article
+  - title: "Reducing cognitive load in VR: 6 ways to improve your VR UX"
+    url: "https://medium.com/@namegoeshere/reducing-cognitive-load-in-vr-d922ef8c6876"
+    author: "Adrienne Hunter"
+    tags:
+      - Article
   # Slides
   - title: "UX in VR: Designing For Virtual Reality"
     url: "http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9"
