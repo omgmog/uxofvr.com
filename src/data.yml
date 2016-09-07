@@ -214,6 +214,11 @@ resources:
     author: "Harry Brenton"
     tags:
       - Video
+  - title: "UX/UI Design for VR and Mixed Reality"
+    url: "https://www.youtube.com/watch?v=hxV-1pJ2hjk"
+    author: "John Howard (LOOOK Inc)"
+    tags:
+      - Video
   # articles
   - title: "Designing for Google Cardboard"
     url: "https://www.google.com/design/spec-vr/designing-for-google-cardboard/"
