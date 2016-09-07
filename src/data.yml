@@ -219,6 +219,11 @@ resources:
     author: "John Howard (LOOOK Inc)"
     tags:
       - Video
+  - title: "10 UX Challenges to Consider in VR"
+    url: "https://www.youtube.com/watch?v=6R-UN0vPWX8"
+    author: "Adrienne Hunter & Eva Hoerth"
+    tags:
+      - Video
   # articles
   - title: "Designing for Google Cardboard"
     url: "https://www.google.com/design/spec-vr/designing-for-google-cardboard/"
