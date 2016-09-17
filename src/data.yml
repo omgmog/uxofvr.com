@@ -575,6 +575,11 @@ resources:
     author: "Adrienne Hunter"
     tags:
       - Article
+  - title: "Making Sense of Skyboxes in VR Design: How the physics of our real world translate to VR design practices."
+    url: "https://medium.com/aol-alpha/making-sense-of-skyboxes-in-vr-design-3e9f8fe254d3"
+    author: "Tessa Chung"
+    tags:
+      - Article
   # Slides
   - title: "UX in VR: Designing For Virtual Reality"
     url: "http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9"
