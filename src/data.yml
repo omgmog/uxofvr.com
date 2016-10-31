@@ -585,6 +585,11 @@ resources:
     author: "Andre Le"
     tags:
       - Article
+  - title: "Practical VR: A Design Cheat Sheet."
+    url: "https://medium.com/@hitsmachines/practical-vr-ce80427e8e9d"
+    author: "Ryan Betts"
+    tags:
+      - Article
   # Slides
   - title: "UX in VR: Designing For Virtual Reality"
     url: "http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9"
