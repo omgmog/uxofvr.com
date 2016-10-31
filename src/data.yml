@@ -611,6 +611,11 @@ resources:
     author: "Brett Red"
     tags:
       - Slides
+  - title: "Virtual RealityDesign Principles with Google Cardboard"
+    url: "https://drive.google.com/drive/folders/0B5HxukasM-KiSjFPaEJELWRxbkU"
+    author: "Swapnil Borkar"
+    tags:
+      - Slides
   # Books
   - title: "3D User Interfaces: Theory and Practice"
     url: "http://www.amazon.co.uk/gp/product/0201758679"
