@@ -590,6 +590,11 @@ resources:
     author: "Ryan Betts"
     tags:
       - Article
+  - title: "The Concept of Presence in Virtual Reality"
+    url: "https://medium.com/@choongchingteo/the-concept-of-presence-in-virtual-reality-6d4332dc1a9c"
+    author: "Teo Choong Ching"
+    tags:
+      - Article
   # Slides
   - title: "UX in VR: Designing For Virtual Reality"
     url: "http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9"
