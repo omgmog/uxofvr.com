@@ -600,6 +600,11 @@ resources:
     author: "Robin Har"
     tags:
       - Article
+  - title: "VR & Accessibility"
+    url: "http://www.gamasutra.com/blogs/IanHamilton/20161031/284491/VR__accessibility.php"
+    author: "Ian Hamilton"
+    tags:
+      - Article
   # Slides
   - title: "UX in VR: Designing For Virtual Reality"
     url: "http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9"
