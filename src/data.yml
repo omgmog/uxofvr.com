@@ -595,6 +595,11 @@ resources:
     author: "Teo Choong Ching"
     tags:
       - Article
+  - title: "How to Take Better 360 Photos"
+    url: "https://medium.com/virohq/how-to-take-better-360-photos-cde446994947"
+    author: "Robin Har"
+    tags:
+      - Article
   # Slides
   - title: "UX in VR: Designing For Virtual Reality"
     url: "http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9"
