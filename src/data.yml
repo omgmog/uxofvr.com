@@ -224,6 +224,11 @@ resources:
     author: "Adrienne Hunter & Eva Hoerth"
     tags:
       - Video
+  - title: "New Frontiers of Immersive UX Design"
+    url: "http://www.bespokevr.com/developVR.html"
+    author: "Dr Harry Brenton"
+    tags:
+      - Video
   # articles
   - title: "Designing for Google Cardboard"
     url: "https://www.google.com/design/spec-vr/designing-for-google-cardboard/"
