@@ -605,6 +605,11 @@ resources:
     author: "Ian Hamilton"
     tags:
       - Article
+  - title: "4 Things I learned Designing User Interfaces for VR at Disney."
+    url: "https://medium.com/startup-grind/4-things-i-learned-designing-user-interfaces-for-vr-cc08cac9e7ec"
+    author: "James Hsu"
+    tags:
+      - Article
   # Slides
   - title: "UX in VR: Designing For Virtual Reality"
     url: "http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9"
