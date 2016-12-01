@@ -646,6 +646,11 @@ resources:
     author: "Swapnil Borkar"
     tags:
       - Slides
+  - title: "Sustainable UX in VR"
+    url: "https://docs.google.com/presentation/d/1OTXaz3RuV0HWgM754PRMUC7d2KYVHH974s5hnAt53wk"
+    author: "Dr. Pete Markiewicz"
+    tags:
+      - Slides
   # Books
   - title: "3D User Interfaces: Theory and Practice"
     url: "http://www.amazon.co.uk/gp/product/0201758679"
