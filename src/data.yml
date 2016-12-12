@@ -229,6 +229,11 @@ resources:
     author: "Dr Harry Brenton"
     tags:
       - Video
+  - title: "Flying through (virtual) reality"
+    url: "https://www.youtube.com/watch?v=pGiqq12mdUs"
+    author: "Patrik Künzler"
+    tags:
+      - Video
   # articles
   - title: "Designing for Google Cardboard"
     url: "https://www.google.com/design/spec-vr/designing-for-google-cardboard/"
