@@ -687,6 +687,11 @@ resources:
     author: "Casey Fictum"
     tags:
       - Book
+  - title: "Designing for Mixed Reality: Blending Data, AR, and the Physical World"
+    url: "http://www.oreilly.com/design/free/designing-for-mixed-reality.csp"
+    author: "Kharis O'Connell"
+    tags:
+      - Book
   # Other
   - title: "VR Design Lab - Unity project"
     url: "https://github.com/VRUX-CO/VRDesignLab"
