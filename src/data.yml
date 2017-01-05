@@ -234,6 +234,11 @@ resources:
     author: "Patrik Künzler"
     tags:
       - Video
+  - title: "Hand-Tracked Controls: Design and Implementation for Serious VR"
+    url: "https://www.youtube.com/watch?v=XYdEO-zIjlw"
+    author: "Matt Newport (OssoVR)"
+    tags:
+      - Video
   # articles
   - title: "Designing for Google Cardboard"
     url: "https://www.google.com/design/spec-vr/designing-for-google-cardboard/"
