@@ -763,4 +763,9 @@ resources:
     author: "A pre-built 'interface module' provided with Hover UI by Zach Kinstner"
     tags:
       - Other
+  - title: "The VR Glossary"
+    url: "http://www.vrglossary.org/"
+    author: "The ultimate resource for virtual reality terminology"
+    tags:
+      - Other
 
