@@ -244,6 +244,11 @@ resources:
     author: "Bradley Davis"
     tags:
       - Video
+  - title: "VR Design Lessons from Multiplatform First Person Gaming"
+    url: "https://www.youtube.com/watch?v=RQcYhESXi0c"
+    author: "Rafael Brown"
+    tags:
+      - Video
   # articles
   - title: "Designing for Google Cardboard"
     url: "https://www.google.com/design/spec-vr/designing-for-google-cardboard/"
