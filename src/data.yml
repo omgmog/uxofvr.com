@@ -671,6 +671,11 @@ resources:
     author: "Dr. Pete Markiewicz"
     tags:
       - Slides
+  - title: "Designing the future of Augmented Reality"
+    url: "http://www.slideshare.net/carinangai/designing-the-future-of-augmented-reality"
+    author: "Carina Ngai"
+    tags:
+      - Slides
   # Books
   - title: "3D User Interfaces: Theory and Practice"
     url: "http://www.amazon.co.uk/gp/product/0201758679"
