@@ -239,6 +239,11 @@ resources:
     author: "Matt Newport (OssoVR)"
     tags:
       - Video
+  - title: "Integrating 2D UI with VR Environments"
+    url: "https://www.youtube.com/watch?v=78F_HNWuqbw"
+    author: "Bradley Davis"
+    tags:
+      - Video
   # articles
   - title: "Designing for Google Cardboard"
     url: "https://www.google.com/design/spec-vr/designing-for-google-cardboard/"
