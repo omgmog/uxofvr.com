@@ -783,4 +783,9 @@ resources:
     author: "The ultimate resource for virtual reality terminology"
     tags:
       - Other
+  - title: "Prototool"
+    url: "http://prototool.co/"
+    author: "Create, test & share VR design mockups"
+    tags:
+      - Other
 
