@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+  <!-- seo -->
+  <title>{{ title_full }}</title>
+  <meta name="description" content="{{ subtitle }}"/>
+  <meta name="keywords" content="UX, User Experience, VR, Virtual Reality, VRUX, UXVR, VRUI, UIVR, UI, User Interface, Oculus, Oculus Rift, Google Cardboard, Google Daydream, Headset, HMD, Interaction, 3D, HTC Vive, Leap Motion, Gestures, User Experience of Virtual Reality, Max Glenister, Omgmog"/>
+  <!-- opengraph -->
+  <meta property="og:title" content="{{ title_full }}"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:url" content="{{ baseurl }}"/>
+  <meta property="og:image" content="{{ baseurl }}/assets/uxvrlogo.png"/>
+  <!-- twitter -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@omgmog" />
+  <meta name="twitter:title" content="{{ title_full }}" />
+  <meta name="twitter:description" content="{{ subtitle }}" />
+  <meta name="twitter:image" content="{{ baseurl }}/assets/uxvrlogo.png" />
+
+  <!-- everything else -->
+  <link rel="apple-touch-icon" sizes="57x57" href="/assets/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/assets/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon-180x180.png">
+  <link rel="icon" type="image/png" href="/assets/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="/assets/favicon-194x194.png" sizes="194x194">
+  <link rel="icon" type="image/png" href="/assets/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="/assets/android-chrome-192x192.png" sizes="192x192">
+  <link rel="icon" type="image/png" href="/assets/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="/assets/manifest.json">
+  <link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#198226">
+  <link rel="shortcut icon" href="/assets/favicon.ico">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="/assets/mstile-144x144.png">
+  <meta name="msapplication-config" content="/assets/browserconfig.xml">
+  <meta name="theme-color" content="#198226">
+  <link rel="stylesheet" href="/assets/style.css">
+  <link rel="canonical" href="{{ baseurl }}" />
+</head>
+<body>
+<a href="#top" title="Go to the top of the page" class="to-top"></a>
+  <header>
+    <div class="inner">
+      <img
+        src="/assets/cardboard.svg"
+        class="logo"
+      >
+      <h1>{{ title_short }}</h1>
+      <p>{{ subtitle }}</p>
+    </div>
+  </header>
+  <main id="top">
+    <section class="intro">
+      <h3>{{ title_full }}</h3>
+      {% for para in intro %}
+        <p>{{ para }}</p>
+      {% endfor %}
+      <p class="signoff">Curated &amp; built with love by <a href="https://omgmog.net">Max Glenister</a> (<a href="https://twitter.com/omgmog">@omgmog</a> on Twitter)</p>
+      <div class="buttons">
+
+        <a href="{{ github_suggest.url }}" target="_blank" class="btn">{{ github_suggest.text }}</a>
+        <a href="{{ github_view.url }}" target="_blank" class="btn">{{ github_view.text }}</a>
+        <a href="{{ twitter.url_base }}{{ twitter.message }}&amp;url=http://uxofvr.com/&amp;via=omgmog" target="_blank" class="btn">{{ twitter.button_text }}</a>
+
+      </div>
+    </section>
+    <section class="content">
+    {% for section in sections %}
+      <h2 id="{{ section._ }}">{{ section.p }}</h2>
+      {% for resource in resources %}
+        {% if resource.type == section._ %}
+        <div class="resource resource-{{ resource.type }}">
+          <input
+            type="checkbox"
+            name="read-resource-{{ loop.index }}"
+            id="read-resource-{{ loop.index }}"
+            class="read-control"
+          >
+          <label
+            for="read-resource-{{ loop.index }}"
+            class="label"
+          >Mark as read</label>
+          <h3>
+            <a href="{{ resource.url }}" target="_blank">
+              {{ resource.title }}
+            </a>
+            <br>
+            {% set url_frags = resource.url | split('/') %}
+            <em>{{ url_frags[2] }}</em>
+          </h3>
+          <h4>{{ resource.author }}</h4>
+        </div>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    </section>
+    <footer>
+
+    </footer>
+  </main>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.slim.min.js"></script>
+  <script>
+    $(function () {
+      var getSavedProgress = function () {
+        var progressData = window.localStorage.getItem('uxofvr_progress');
+        if (progressData) {
+          progressData = JSON.parse(progressData);
+          return progressData;
+        }
+        return null;
+      };
+
+      var saveProgress = function (progress) {
+        var progressData = JSON.stringify(progress);
+        window.localStorage.setItem('uxofvr_progress', progressData);
+      };
+
+      var progress = getSavedProgress() || {"items":[]};
+      $.each(progress.items, function (index, item) {
+        var itemSelector = "[name='"+item+"']";
+        $(itemSelector)[0].checked = true;
+      });
+
+      $(document).on('click', '.read-control', function (e) {
+        var resid = $(this).attr('name');
+        var resindex = progress.items.indexOf(resid);
+        if (resindex === -1) {
+          // add it to our items list
+          progress.items.push(resid);
+        } else {
+          // delete it from our items list
+          progress.items.splice(resindex, 1);
+        }
+        saveProgress(progress);
+      });
+
+      // Mark a resource as "read" once we've clicked the link
+      $(document).on('click', '.resource a', function () {
+        $(this).closest('.resource').find('.read-control').attr('checked', true);
+      });
+
+      $(document).on('click', '.resource-video a', function (e) {
+        var url = $(this).attr('href');
+        var is_youtube = url.includes('youtube.com');
+        var is_vimeo = url.includes('vimeo.com');
+
+        if ( is_youtube || is_vimeo ) {
+          e.preventDefault();
+
+          if (is_youtube) {
+            url = url.replace(/watch\?v=/,'embed/');
+          }
+          if (is_vimeo) {
+            // pretty hacky, but as I'm in control of the urls this is _fine!_
+            url = url.replace(/vimeo\.com\//, 'player.vimeo.com/video/') + "?title=0&byline=0&portrait=0";
+          }
+
+          $(this).closest('.resource').append(function (){
+
+            var existing = $('iframe[src*="'+url+'"]');
+            if (existing.length) {
+              existing.closest('.video-container').remove();
+              return false;
+            }
+
+            return '<div class="video-container"><iframe src="'+url+'" frameborder="0" allowfullscreen></iframe></div>';
+          });
+        }
+      });
+    });
+
+  </script>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-77904215-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

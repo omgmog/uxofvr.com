@@ -1,6 +1,6 @@
 var deploy = require('gulp-gh-pages');
 var gulp = require('gulp');
-var liquid = require('gulp-liquid');
+var twig = require('gulp-twig');
 var replaceExtension = require('gulp-ext-replace');
 var sass = require('gulp-sass');
 var yaml = require('js-yaml');
@@ -13,7 +13,7 @@ var paths = {
   allDist: './dist/**/*',
   src: './src/',
   allSrc: './src/**/*',
-  liquidSrc: './src/*.liquid',
+  liquidSrc: './src/*.twig',
   sassSrc: './src/assets/*.scss',
   ymlSrc: './src/data.yml'
 };
@@ -22,8 +22,8 @@ var paths = {
 gulp.task('build:html', function () {
   var yamlData = yaml.safeLoad(fs.readFileSync(paths.ymlSrc, 'utf8'));
   return gulp.src(paths.liquidSrc)
-    .pipe(liquid({
-      locals: yamlData
+    .pipe(twig({
+      data: yamlData
     }))
     .pipe(replaceExtension('.html'))
     .pipe(htmlmin({collapseWhitespace: true}))
