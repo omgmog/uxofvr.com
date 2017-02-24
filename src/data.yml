@@ -112,7 +112,7 @@ resources:
     type: video
   - title: "Documentation for Focal Point VR - An interaction design framework for Unity"
     url: "https://www.youtube.com/watch?v=zzItw0i45Do"
-    author: "Albert Huang"
+    author: "Albert Hwang"
     type: video
   - title: "Building 3-Dimensional UI for VR"
     url: "http://www.gdcvault.com/play/1023652/Building-3-Dimensional-UI-for-VR"
