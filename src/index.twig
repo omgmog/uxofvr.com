@@ -125,6 +125,26 @@
       };
 
       var progress = getSavedProgress() || {"items":[]};
+
+      var updateProgress = function (resid, can_delete) {
+        var resindex = progress.items.indexOf(resid);
+        if (resindex === -1) {
+          // add it to our items list
+          progress.items.push(resid);
+        } else {
+          if (can_delete) {
+            // delete it from our items list
+            progress.items.splice(resindex, 1);
+          }
+        }
+        saveProgress(progress);
+
+        $.each(progress.items, function (index, item) {
+          var itemSelector = "[name='"+item+"']";
+          $(itemSelector)[0].checked = true;
+        });
+      };
+
       $.each(progress.items, function (index, item) {
         var itemSelector = "[name='"+item+"']";
         $(itemSelector)[0].checked = true;
@@ -132,29 +152,26 @@
 
       $(document).on('click', '.read-control', function (e) {
         var resid = $(this).attr('name');
-        var resindex = progress.items.indexOf(resid);
-        if (resindex === -1) {
-          // add it to our items list
-          progress.items.push(resid);
-        } else {
-          // delete it from our items list
-          progress.items.splice(resindex, 1);
-        }
-        saveProgress(progress);
+        updateProgress(resid, true);
       });
 
       // Mark a resource as "read" once we've clicked the link
       $(document).on('click', '.resource a', function () {
-        $(this).closest('.resource').find('.read-control').attr('checked', true);
+        var $res = $(this).closest('.resource').find('.read-control');
+        $res.attr('checked', true);
+        var resid = $res.attr('name');
+        updateProgress(resid, false);
       });
 
       $(document).on('click', '.resource-video a', function (e) {
         var url = $(this).attr('href');
         var is_youtube = url.includes('youtube.com');
         var is_vimeo = url.includes('vimeo.com');
+        var resid = $(this).closest('.resource').find('.read-control').attr('name');
 
         if ( is_youtube || is_vimeo ) {
           e.preventDefault();
+          updateProgress(resid, false);
 
           if (is_youtube) {
             url = url.replace(/watch\?v=/,'embed/');
@@ -164,14 +181,12 @@
             url = url.replace(/vimeo\.com\//, 'player.vimeo.com/video/') + "?title=0&byline=0&portrait=0";
           }
 
-          $(this).closest('.resource').append(function (){
-
+          $(this).closest('.resource').append(function () {
             var existing = $('iframe[src*="'+url+'"]');
             if (existing.length) {
               existing.closest('.video-container').remove();
               return false;
             }
-
             return '<div class="video-container"><iframe src="'+url+'" frameborder="0" allowfullscreen></iframe></div>';
           });
         }

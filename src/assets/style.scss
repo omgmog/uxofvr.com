@@ -3,7 +3,6 @@
 $green: #198226;
 $white: darken(#fff, 2%);
 $black: lighten(#000, 2%);
-
 html {
   overflow-x: hidden;
   font-size: 16px;
@@ -11,24 +10,34 @@ html {
   line-height: 1.2;
   background-color: $white;
 }
-h1, h2, h3 {
+
+h1,
+h2,
+h3 {
   font-family: FuturaBoldRegular, helvetica neue, helvetica, arial, sans-serif;
 }
-h1, h2, p {
+
+h1,
+h2,
+p {
   margin-bottom: 1rem;
 }
+
 h1 {
   font-size: 2rem;
 }
+
 h2 {
   font-size: 3rem;
   color: $green;
   text-transform: uppercase;
   letter-spacing: .0125em;
 }
+
 h3 {
   margin-bottom: .5rem;
 }
+
 h4 {
   font-size: .8rem;
 }
@@ -38,16 +47,16 @@ main {
   width: 600px;
   max-width: 100%;
 }
+
 header {
   background-color: $green;
   background-image: linear-gradient(to bottom, #0f831f, #0d761c);
   color: $white;
-  transform: skew(0,-4.5deg);
+  transform: skew(0, -4.5deg);
   margin: -4rem 0 4rem;
   width: 100%;
-
   .inner {
-    transform: skew(0,4.5deg);
+    transform: skew(0, 4.5deg);
     min-height: 20rem;
     padding: 7rem 0 4rem;
     text-align: center;
@@ -65,9 +74,11 @@ header {
     margin: 0 1rem;
   }
 }
+
 section {
   padding: 2rem 1rem;
 }
+
 .to-top {
   position: fixed;
   right: 1rem;
@@ -80,19 +91,19 @@ section {
   background-repeat: no-repeat;
   opacity: .5;
   transition: opacity .2s ease;
-
   &:hover {
     opacity: 1;
   }
 }
-.intro p {
 
+.intro p {
   a {
     text-decoration: underline;
     font-style: italic;
     color: $green;
   }
 }
+
 .btn {
   background: $green;
   color: $white;
@@ -100,22 +111,21 @@ section {
   font-size: 1rem;
   text-align: center;
   margin: .25em;
-
 }
+
 .buttons {
   display: flex;
   flex-wrap: wrap;
-
   .btn {
     flex: 1;
     flex-basis: 33%;
   }
 }
+
 h2 {
   text-align: center;
   overflow: hidden;
   position: relative;
-
   &::before,
   &::after {
     content: '';
@@ -125,7 +135,6 @@ h2 {
     position: absolute;
     top: 50%;
     margin-top: -.5rem;
-
   }
   &::before {
     left: -25%;
@@ -134,26 +143,33 @@ h2 {
     right: -25%;
   }
 }
+
 .resource {
   padding: 1rem;
   box-shadow: 0 1px 2px rgba($black, .3);
   color: $black;
-  opacity: .8;
   transition: all .2s ease;
   position: relative;
   margin: 0 0 1rem;
   background: #fff;
   overflow: hidden;
 
-
-  &:hover {
-    opacity: 1;
-    box-shadow: 0 2px 4px rgba($black, .4);
-  }
   .read-control {
     position: absolute;
     left: -10rem;
     top: 0;
+
+    &:checked ~ h3,
+    &:checked ~ h4 {
+      opacity: .5;
+    }
+    + .label {
+      opacity: 1!important;
+    }
+    &:checked + .label {
+      background-image: url(checkbox-checked.svg);
+    }
+
   }
   .label {
     width: 2rem;
@@ -164,7 +180,6 @@ h2 {
     background-size: contain;
     overflow: hidden;
     text-indent: -999em;
-
     position: absolute;
     left: 1rem;
     top: 1rem;
@@ -175,7 +190,6 @@ h2 {
   }
   h3 {
     color: $green;
-
     em {
       color: #aaa;
       font-size: .8em;
@@ -189,23 +203,6 @@ h2 {
       font-family: helvetica neue, helvetica, arial, sans-serif;
     }
   }
-
-  &:hover {
-    h3 em {
-      opacity: 1;
-    }
-  }
-  .read-control:checked ~ h3,
-  .read-control:checked ~ h4 {
-    opacity: .5;
-  }
-  .read-control + .label {
-    opacity: 1!important;
-  }
-  .read-control:checked + .label {
-    background-image: url(checkbox-checked.svg);
-  }
-
   .video-container {
     background-image: url(loading.svg);
     background-position: 50%;
@@ -215,7 +212,6 @@ h2 {
     width: 100%;
     padding-bottom: 56.25%;
     margin-top: 1rem;
-
     iframe {
       position: absolute;
       left: 0;
@@ -228,12 +224,15 @@ h2 {
       background-color: transparent;
     }
   }
+  &:hover {
+    box-shadow: 0 2px 4px rgba($black, .4);
+  }
 }
+
 @media screen and (max-width: 500px) {
   .to-top {
     display: none;
   }
-
   h2 {
     &::before,
     &::after {
