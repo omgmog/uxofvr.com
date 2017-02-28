@@ -166,10 +166,11 @@
       $(document).on('click', '.resource-video a', function (e) {
         var url = $(this).attr('href');
         var is_youtube = url.includes('youtube.com');
+        var is_youtube_playlist = is_youtube && url.includes('&list');
         var is_vimeo = url.includes('vimeo.com');
         var resid = $(this).closest('.resource').find('.read-control').attr('name');
 
-        if ( is_youtube || is_vimeo ) {
+        if ( (is_youtube || is_vimeo) && !is_youtube_playlist ) {
           e.preventDefault();
           updateProgress(resid, false);
 
