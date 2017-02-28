@@ -645,4 +645,8 @@ resources:
     url: "http://web.cs.wpi.edu/~gogo/hive/papers/Milgram_Takemura_SPIE_1994.pdf"
     author: "Paul Milgram, Haruo Takemura, Akira Utsumi and Fumio Kishino"
     type: article
+  - title: "VIRTUAL REALITY"
+    url: "http://vr.cs.uiuc.edu/"
+    author: "Steven M. LaValle"
+    type: book
 
