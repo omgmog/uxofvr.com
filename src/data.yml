@@ -33,7 +33,6 @@ sections:
     _: other
 
 resources:
-  # videos
   - title: "VR Interface Design Pre-Visualisation Methods"
     url: "https://www.youtube.com/watch?v=id86HeV-Vb8"
     author: "Mike Alger"
@@ -206,7 +205,6 @@ resources:
     url: "https://www.youtube.com/watch?v=RQcYhESXi0c"
     author: "Rafael Brown"
     type: video
-  # articles
   - title: "Designing for Google Cardboard"
     url: "https://www.google.com/design/spec-vr/designing-for-google-cardboard/"
     author: "Google"
@@ -515,7 +513,6 @@ resources:
     url: "https://medium.com/startup-grind/4-things-i-learned-designing-user-interfaces-for-vr-cc08cac9e7ec"
     author: "James Hsu"
     type: article
-  # Slides
   - title: "UX in VR: Designing For Virtual Reality"
     url: "http://www.slideshare.net/LauraCortes9/talk-ux-uxinvrunit9"
     author: "Laura Cortes & Cyriele Piancastelli"
@@ -548,7 +545,6 @@ resources:
     url: "http://www.slideshare.net/carinangai/designing-the-future-of-augmented-reality"
     author: "Carina Ngai"
     type: slides
-  # Books
   - title: "3D User Interfaces: Theory and Practice"
     url: "http://www.amazon.co.uk/gp/product/0201758679"
     author: "Doug A. Bowman, Ernst Kruijff, Ivan Poupyrev Joseph J. LaViola"
@@ -581,7 +577,6 @@ resources:
     url: "http://www.oreilly.com/design/free/designing-for-mixed-reality.csp"
     author: "Kharis O'Connell"
     type: book
-  # Other
   - title: "VR Design Lab - Unity project"
     url: "https://github.com/VRUX-CO/VRDesignLab"
     author: "Open source VR design examples by VRUX.co"
