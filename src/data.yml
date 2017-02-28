@@ -633,4 +633,12 @@ resources:
     url: "http://prototool.co/"
     author: "Create, test & share VR design mockups"
     type: other
+  - title: "Wandering the Frontiers of Virtual Reality UX"
+    url: "https://www.youtube.com/watch?v=-f2OgAyjDVU&list=PLA27jL5mOsuXdOup1ejEJ3h1L1cWTgGJr"
+    author: "Edward Moore (AMPED-UX)"
+    type: video
+  - title: "The Frontiers of Virtual & Augmented Reality User Experience"
+    url: "https://docs.google.com/presentation/d/1TMbvwudDoWX-uy951HppecInbbyJwzAIGMu5w_l4Fj4/edit"
+    author: "Edward Moore (AMPED-UX)"
+    type: slides
 
