@@ -641,4 +641,8 @@ resources:
     url: "https://docs.google.com/presentation/d/1TMbvwudDoWX-uy951HppecInbbyJwzAIGMu5w_l4Fj4/edit"
     author: "Edward Moore (AMPED-UX)"
     type: slides
+  - title: "Augmented Reality: A class of displays on the reality-virtuality continuum"
+    url: "http://web.cs.wpi.edu/~gogo/hive/papers/Milgram_Takemura_SPIE_1994.pdf"
+    author: "Paul Milgram, Haruo Takemura, Akira Utsumi and Fumio Kishino"
+    type: article
 
