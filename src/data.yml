@@ -649,4 +649,8 @@ resources:
     url: "http://vr.cs.uiuc.edu/"
     author: "Steven M. LaValle"
     type: book
+  - title: "Methods of Analyzing Your VR Experience"
+    url: "https://medium.com/@alless91/methods-of-analyzing-your-vr-experience-dbdfe0ea2edd"
+    author: "Ali Eslami"
+    type: article
 
