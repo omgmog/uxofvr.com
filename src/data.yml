@@ -653,4 +653,8 @@ resources:
     url: "https://medium.com/@alless91/methods-of-analyzing-your-vr-experience-dbdfe0ea2edd"
     author: "Ali Eslami"
     type: article
+  - title: "Microsoft: Fluent Design System"
+    url: "http://fluent.microsoft.com"
+    author: "An eloquent design system for a complex world. Now’s the time for bold, scalable, universal design."
+    type: other
 
