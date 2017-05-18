@@ -657,4 +657,7 @@ resources:
     url: "http://fluent.microsoft.com"
     author: "An eloquent design system for a complex world. Now’s the time for bold, scalable, universal design."
     type: other
-
+  - title: "Accessibility and VR"
+    url: "https://youtube.com/watch?v=J1SRkoR4iT0"
+    author: "Brian Van Buren, Tomorrow Today Labs"
+    type: video
