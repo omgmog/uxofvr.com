@@ -661,3 +661,7 @@ resources:
     url: "https://youtube.com/watch?v=J1SRkoR4iT0"
     author: "Brian Van Buren, Tomorrow Today Labs"
     type: video
+  - title: "Designing VR for Mobile"
+    url: "https://medium.com/virohq/designing-vr-for-mobile-47bc665ab977"
+    author: "Robin Har"
+    type: article
