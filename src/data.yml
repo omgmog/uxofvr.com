@@ -673,3 +673,7 @@ resources:
     url: "https://www.youtube.com/watch?v=ES9jArHRFHQ"
     author: "Google I/O '17"
     type: video
+  - title: "Daydream Elements"
+    url: "https://developers.google.com/vr/elements/overview"
+    author: "A collection of tech demos that showcase principles and best practices for developing high-quality VR experiences"
+    type: other
