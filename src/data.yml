@@ -669,3 +669,7 @@ resources:
     url: "https://medium.com/@namegoeshere/realism-expectations-and-the-fidelity-contract-in-vr-design-3782485bd054"
     author: "Adrienne Hunter"
     type: article
+  - title: "Designing Screen Interfaces for VR"
+    url: "https://www.youtube.com/watch?v=ES9jArHRFHQ"
+    author: "Google I/O '17"
+    type: video
