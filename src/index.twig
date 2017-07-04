@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -43,6 +43,8 @@
   <meta name="msapplication-TileImage" content="/assets/mstile-144x144.png">
   <meta name="msapplication-config" content="/assets/browserconfig.xml">
   <meta name="theme-color" content="#198226">
+
+  <link rel="manifest" href="manifest.json">
   <link rel="stylesheet" href="/assets/style.css">
   <link rel="canonical" href="{{ baseurl }}" />
 </head>
@@ -52,6 +54,7 @@
     <div class="inner">
       <img
         src="/assets/cardboard.svg"
+        alt="The logo of the UX of VR"
         class="logo"
       >
       <h1>{{ title_short }}</h1>
@@ -67,9 +70,9 @@
       <p class="signoff">Curated &amp; built with love by <a href="https://omgmog.net">Max Glenister</a> (<a href="https://twitter.com/omgmog">@omgmog</a> on Twitter)</p>
       <div class="buttons">
 
-        <a href="{{ github_suggest.url }}" target="_blank" class="btn">{{ github_suggest.text }}</a>
-        <a href="{{ github_view.url }}" target="_blank" class="btn">{{ github_view.text }}</a>
-        <a href="{{ twitter.url_base }}{{ twitter.message }}&amp;url=http://uxofvr.com/&amp;via=omgmog" target="_blank" class="btn">{{ twitter.button_text }}</a>
+        <a href="{{ github_suggest.url }}" target="_blank" rel="noopener" class="btn">{{ github_suggest.text }}</a>
+        <a href="{{ github_view.url }}" target="_blank" rel="noopener" class="btn">{{ github_view.text }}</a>
+        <a href="{{ twitter.url_base }}{{ twitter.message }}&amp;url=http://uxofvr.com/&amp;via=omgmog" target="_blank" rel="noopener" class="btn">{{ twitter.button_text }}</a>
 
       </div>
     </section>
@@ -90,7 +93,7 @@
             class="label"
           >Mark as read</label>
           <h3>
-            <a href="{{ resource.url }}" target="_blank">
+            <a href="{{ resource.url }}" target="_blank" rel="noopener">
               {{ resource.title }}
             </a>
             <br>

@@ -1,0 +1,14 @@
+{
+  "name": "The User Experience of Virtual Reality",
+  "short_name": "The UX of VR",
+  "lang": "en-GB",
+  "start_url": "/",
+  "display": "Browser",
+  "theme_color": "#198226",
+  "icons": [
+    {
+      "src": "assets/apple-touch-icon.png",
+      "sizes": "180x180"
+    }
+  ]
+}
