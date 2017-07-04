@@ -49,7 +49,7 @@ gulp.task('build:styles', function () {
   return gulp.src(paths.sassSrc)
     .pipe(sass())
     .pipe(replaceExtension('.css'))
-    .pipe(cleanCSS({compatibility: 'ie8'}))
+    .pipe(cleanCSS({compatibility: 'ie11'}))
     .pipe(gulp.dest(paths.dist + 'assets/'));
 });
 
