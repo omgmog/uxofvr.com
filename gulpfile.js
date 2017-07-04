@@ -32,7 +32,8 @@ gulp.task('build:html', function () {
 
 gulp.task('build:other', function () {
   return gulp.src([
-    paths.src + 'CNAME'
+    paths.src + 'CNAME',
+    paths.src + 'manifest.json'
   ])
     .pipe(gulp.dest(paths.dist));
 });
