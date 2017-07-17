@@ -677,3 +677,7 @@ resources:
     url: "https://developers.google.com/vr/elements/overview"
     author: "A collection of tech demos that showcase principles and best practices for developing high-quality VR experiences"
     type: other
+  - title: "Design a pleasant user experience inside the VR"
+    url: "https://blog.prototypr.io/design-a-pleasant-user-experience-inside-the-vr-a76320c69fdf"
+    author: "Sophie Riwaters"
+    type: article
