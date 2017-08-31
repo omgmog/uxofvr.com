@@ -689,3 +689,16 @@ resources:
     url: "http://lensreality.com/%D0%A2he-current-state-ux-in-vr-part-2/"
     author: "Billy Vacheva"
     type: article
+  - title: "VRTK - Virtual Reality Toolkit"
+    url: https://github.com/thestonefox/VRTK
+    type: other
+    author: "VRTK is based on NewtonVR (which is listed), and is a very popular interaction toolkit for Unity."
+  - title: "VR interfaces versus traditional interfaces"
+    url: "http://blog.ruisystem.net/virtual-reality/vr-interfaces-versus-traditional-interfaces/"
+    author: "Tuukka Takala"
+    type: article
+  - title: "Considerations for VR developers"
+    url: "http://blog.ruisystem.net/virtual-reality/considerations-vr-developers-2016/"
+    author: Tuukka Takala
+    type: article
+    
