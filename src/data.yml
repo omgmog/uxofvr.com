@@ -705,4 +705,8 @@ resources:
     url: "https://beeva-labs.github.io/ux-vr-framework/"
     author: "Salvador Valle (BEEVA Labs)"
     type: other
-    
+  - title: "More Ways to Make Your Users Sick – A talk about WebVR and UX Design"
+    url: "https://www.slideshare.net/geildanke/more-ways-to-make-your-users-sick-a-talk-about-webvr-and-ux-design"
+    author: "Michaela Lehr (GeilDanke)"
+    type: slides
+
