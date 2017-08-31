@@ -681,3 +681,11 @@ resources:
     url: "https://blog.prototypr.io/design-a-pleasant-user-experience-inside-the-vr-a76320c69fdf"
     author: "Sophie Riwaters"
     type: article
+  - title: "Тhe current state of the UX in VR (Part 1)"
+    url: "http://lensreality.com/uxinvr/"
+    author: "Billy Vacheva"
+    type: article
+  - title: "Тhe current state of the UX in VR (Part 2)"
+    url: "http://lensreality.com/%D0%A2he-current-state-ux-in-vr-part-2/"
+    author: "Billy Vacheva"
+    type: article
