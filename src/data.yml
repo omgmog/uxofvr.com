@@ -701,4 +701,8 @@ resources:
     url: "http://blog.ruisystem.net/virtual-reality/considerations-vr-developers-2016/"
     author: Tuukka Takala
     type: article
+  - title: "UX Framework for VR Mobile (Spanish)"
+    url: "https://beeva-labs.github.io/ux-vr-framework/"
+    author: "Salvador Valle (BEEVA Labs)"
+    type: other
     
