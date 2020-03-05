@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
-    <title>Artboard</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard">
-            <g id="checkbox-checked" transform="translate(4.000000, 4.000000)">
-                <polygon id="Shape" fill="#E1E1E1" points="0 0 24 0 24 24 0 24"></polygon>
-                <polyline id="Shape" fill="#198226" points="12.1757337 17.9908584 5 10.8151248 8.51786487 7.29725991 12.1757337 10.9551287 23.1308624 0 26.6487272 3.51786487"></polyline>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" version="1.1" viewBox="0 0 32 32"><title>Artboard</title><desc>Created with Sketch.</desc><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Artboard"><g id="checkbox-checked" transform="translate(4.000000, 4.000000)"><polygon id="Shape" fill="#E1E1E1" points="0 0 24 0 24 24 0 24"/><polyline id="Shape" fill="#198226" points="12.176 17.991 5 10.815 8.518 7.297 12.176 10.955 23.131 0 26.649 3.518"/></g></g></g></svg>
